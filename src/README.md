@@ -2,10 +2,10 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
+title: 真真日记
 heroImage: /logo.svg
-heroText: The name of your blog
-tagline: You can put your slogan here
+heroText: 真真日记The name of your blog
+tagline: 真真日记You can put your slogan here
 heroFullScreen: true
 projects:
   - icon: project

@@ -2,11 +2,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: 真真日记
 heroImage: /logo.svg
-heroText: 你博客的名称
+heroText: 真真日记你博客的名称
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 真真日记你可以在这里放置你的口号与标语
 projects:
   - icon: project
     name: 项目名称
