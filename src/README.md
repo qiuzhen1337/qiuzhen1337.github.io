@@ -2,10 +2,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: 真真日记
-heroImage: /logo.svg
-heroText: 真真日记The name of your blog
-tagline: 真真日记You can put your slogan here
+title: The Diary of Zhenzhen
+heroImage: /logo.png
+bgImage: /background.png
+heroText: The Diary of Zhenzhen
+tagline: Keep ypur promise,walk the talk.
 heroFullScreen: true
 projects:
   - icon: project

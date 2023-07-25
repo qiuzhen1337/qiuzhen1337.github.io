@@ -1,5 +1,5 @@
 export const pagesRoutes = [
-  ["v-8daa1a0e","/",{"y":"h","t":"Blog Home","i":"home"},["/README.md"]],
+  ["v-8daa1a0e","/",{"y":"h","t":"The Diary of Zhenzhen","i":"home"},["/README.md"]],
   ["v-184f4da6","/intro.html",{"v":"/assets/images/cover3.jpg","e":"<h1> Intro Page</h1>\n<p>Place your introduction and profile here.</p>\n","y":"a","t":"Intro Page","i":"circle-info"},[":md"]],
   ["v-2e3eac9e","/slides.html",{"e":"<!-- markdownlint-disable MD024 MD033 MD051 -->\n","y":"s","t":"Slide page","i":"person-chalkboard"},[":md"]],
   ["v-1473bf53","/demo/",{"c":["Guide"],"e":"<h2> Catalog</h2>\n<ul>\n<li>\n<p><a href=\"/demo/markdown.html\" target=\"blank\">Markdown Enhance</a></p>\n</li>\n<li>\n<p><a href=\"/demo/page.html\" target=\"blank\">Page Config</a></p>\n</li>\n<li>\n<p><a href=\"/demo/disable.html\" target=\"blank\">Function Disable</a></p>\n</li>\n<li>\n<p><a href=\"/demo/encrypt.html\" target=\"blank\">Encryption Demo</a></p>\n</li>\n</ul>","y":"a","t":"Features demo","i":"laptop-code"},["/demo/README.md"]],
@@ -11,7 +11,7 @@ export const pagesRoutes = [
   ["v-24b7c48d","/posts/dragonfruit.html",{"d":1641772800000,"l":"January 10, 2022","c":["Dragon Fruit","Fruit"],"g":["red","big"],"e":"<h1> Dragon Fruit</h1>\n<h2> Heading 2</h2>\n<p>Here is the content.</p>\n<h3> Heading 3</h3>\n<p>Here is the content.</p>\n","y":"a","t":"Dragon Fruit","i":"pen-to-square"},[":md"]],
   ["v-f0ec4556","/posts/strawberry.html",{"d":1641859200000,"l":"January 11, 2022","c":["Fruit","Strawberry"],"g":["red","small"],"e":"<h1> Strawberry</h1>\n<h2> Heading 2</h2>\n<p>Here is the content.</p>\n<h3> Heading 3</h3>\n<p>Here is the content.</p>\n","y":"a","t":"Strawberry","i":"pen-to-square"},[":md"]],
   ["v-df8b6e0c","/posts/tomato.html",{"d":1641945600000,"l":"January 12, 2022","c":["Vegetable"],"g":["red","round"],"u":true,"v":"/assets/images/cover2.jpg","e":"<h1> Tomato</h1>\n<h2> Heading 2</h2>\n<p>Here is the content.</p>\n<h3> Heading 3</h3>\n<p>Here is the content.</p>\n","y":"a","t":"Tomato","i":"pen-to-square"},[":md"]],
-  ["v-2d0ad528","/zh/",{"y":"h","t":"博客主页","i":"home"},["/zh/README.md"]],
+  ["v-2d0ad528","/zh/",{"y":"h","t":"真真日记","i":"home"},["/zh/README.md"]],
   ["v-858cfdd6","/zh/intro.html",{"v":"/assets/images/cover3.jpg","e":"<h1> 介绍页</h1>\n<p>将你的个人介绍和档案放置在此处。</p>\n","y":"a","t":"介绍页","i":"circle-info"},[":md"]],
   ["v-269ae70f","/zh/slides.html",{"e":"<!-- markdownlint-disable MD024 MD033 MD051 -->\n","y":"s","t":"幻灯片页","i":"person-chalkboard"},[":md"]],
   ["v-67b8c712","/posts/apple/1.html",{"d":1640995200000,"l":"January 1, 2022","c":["Apple"],"g":["red","big","round"],"e":"<h1> Apple 1</h1>\n<h2> Heading 2</h2>\n<p>Here is the content.</p>\n<h3> Heading 3</h3>\n<p>Here is the content.</p>\n","y":"a","t":"Apple 1","i":"pen-to-square"},[":md"]],

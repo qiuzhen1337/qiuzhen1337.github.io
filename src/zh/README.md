@@ -3,10 +3,11 @@ home: true
 layout: BlogHome
 icon: home
 title: 真真日记
-heroImage: /logo.svg
-heroText: 真真日记你博客的名称
+heroImage: /logo.png
+bgImage: /background.png
+heroText: 真真日记
 heroFullScreen: true
-tagline: 真真日记你可以在这里放置你的口号与标语
+tagline: Keep ypur promise,walk the talk.
 projects:
   - icon: project
     name: 项目名称
