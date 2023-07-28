@@ -2,11 +2,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: The Diary of Zhenzhen
+title: qz‘s fancy House
 heroImage: /logo.png
 bgImage: /background.png
-heroText: The Diary of Zhenzhen
-tagline: Keep ypur promise,walk the talk.
+heroText: qz's fancy House
+tagline: Keep your promise,walk the talk.
 heroFullScreen: true
 projects:
   - icon: project

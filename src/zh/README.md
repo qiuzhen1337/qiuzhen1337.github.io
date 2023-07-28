@@ -2,12 +2,12 @@
 home: true
 layout: BlogHome
 icon: home
-title: 真真日记
+title: qz 的奇思妙想屋
 heroImage: /logo.png
 bgImage: /background.png
-heroText: 真真日记
+heroText: qz 的奇思妙想屋
 heroFullScreen: true
-tagline: Keep ypur promise,walk the talk.
+tagline: Keep your promise,walk the talk.
 projects:
   - icon: project
     name: 项目名称
