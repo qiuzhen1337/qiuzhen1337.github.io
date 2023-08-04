@@ -1,8 +1,58 @@
 ---
-icon: circle-info
-cover: /assets/images/cover3.jpg
+home: false
+icon: people
+title: 个人介绍
+heroText: Personal Introduction
+tagline: Keep your promise,walk the talk.
+timeline: true
+date: 2023-08-05 07:28:48
 ---
 
-# Intro Page
+## 联系方式
 
-Place your introduction and profile here.
+· +86 150-5744-1337  · qiuzhenqzzz@gmail.com  · 所在地：宁波
+
+## 教育背景
+
+嘉兴学院 
+
+本科，市场营销（2026年毕业）：2022/08至今
+
+· 综合绩点（GPA）：3.8/4.0，专业排名第一，校级一等奖学金
+
+## 实习经历
+
+欧莱雅（ 远程）
+
+市场助理  2023/04-2023/05
+
+## 课外活动/社团经历
+
+· 南湖革命纪念馆志愿宣讲队成员
+
+· 商学院演讲赛亚军获得者
+
+· 校主持队副队长，多次主持校内大型活动
+
+· 担任校史宣传视频主讲
+
+· 班级心理委员
+
+## 学科竞赛
+
+· 全国大学生英语竞赛省级三等奖
+
+· 浙江省乡村振兴大赛入围省赛
+
+· 浙江省经济管理案例竞赛
+
+## 其他信息
+
+· 语言技能：英语（流利，托福/雅思XX分，大学英语四级562分，六级xx）
+
+· IT技能：Office，python
+
+· 兴趣爱好：演讲，宣讲，辩论，阅读
+
+ 
+
