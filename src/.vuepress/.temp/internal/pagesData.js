@@ -3,8 +3,6 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /intro.html
   "v-184f4da6": () => import(/* webpackChunkName: "v-184f4da6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/intro.html.js").then(({ data }) => data),
-  // path: /slides.html
-  "v-2e3eac9e": () => import(/* webpackChunkName: "v-2e3eac9e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/slides.html.js").then(({ data }) => data),
   // path: /demo/
   "v-1473bf53": () => import(/* webpackChunkName: "v-1473bf53" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/demo/index.html.js").then(({ data }) => data),
   // path: /demo/disable.html
@@ -19,8 +17,6 @@ export const pagesData = {
   "v-2d0ad528": () => import(/* webpackChunkName: "v-2d0ad528" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/index.html.js").then(({ data }) => data),
   // path: /zh/intro.html
   "v-858cfdd6": () => import(/* webpackChunkName: "v-858cfdd6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/intro.html.js").then(({ data }) => data),
-  // path: /zh/slides.html
-  "v-269ae70f": () => import(/* webpackChunkName: "v-269ae70f" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/slides.html.js").then(({ data }) => data),
   // path: /posts/cherry.html
   "v-2bc6566a": () => import(/* webpackChunkName: "v-2bc6566a" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/posts/cherry.html.js").then(({ data }) => data),
   // path: /posts/dragonfruit.html
