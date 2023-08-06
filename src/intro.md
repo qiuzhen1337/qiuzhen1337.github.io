@@ -1,6 +1,6 @@
 ---
 home: false
-icon: hot
+icon: profile
 title: 个人介绍
 heroText: Personal Introduction
 tagline: Keep your promise,walk the talk.

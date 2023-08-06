@@ -10,12 +10,12 @@ tagline: Keep your promise,walk the talk.
 heroFullScreen: true
 projects:
   - icon: project
-    name: project name
+    name: Programming skills sharing
     desc: project detailed description
     link: https://your.project.link
 
   - icon: link
-    name: link name
+    name: a
     desc: link detailed description
     link: https://link.address
 
