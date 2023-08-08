@@ -1,8 +1,8 @@
 export const pagesRoutes = [
   ["v-8daa1a0e","/",{"y":"h","t":"qz‘s fancy House","i":"home"},["/README.md"]],
-  ["v-184f4da6","/intro.html",{"d":1691428835000,"l":"August 8, 2023","e":"<h2> Contact Information</h2>\n<ul>\n<li>\n<p>+86 150-5744-1337</p>\n</li>\n<li>\n<p><a href=\"mailto:qiuzhenqzzz@gmail.com\">qiuzhenqzzz@gmail.com</a></p>\n</li>\n<li>\n<p>所在地：宁波</p>\n</li>\n</ul>\n<h2> educational background</h2>\n<p>Jiaxing University ,  Bachelor , Marketing ( graduate2026) : 2022/08 to present</p>","y":"a","t":"Personal Introduction","i":"profile"},[":md"]],
+  ["v-184f4da6","/intro.html",{"y":"a","t":"Personal Introduction","i":"profile"},[":md"]],
   ["v-2d0ad528","/zh/",{"y":"h","t":"qz 的奇思妙想屋","i":"home"},["/zh/README.md"]],
-  ["v-858cfdd6","/zh/intro.html",{"d":1691220528000,"l":"2023年8月5日","e":"<h2> 联系方式</h2>\n<ul>\n<li>+86 150-5744-1337</li>\n<li><a href=\"mailto:qiuzhenqzzz@gmail.com\">qiuzhenqzzz@gmail.com</a></li>\n<li>坐标：宁波</li>\n</ul>\n<h2> 教育背景</h2>\n<p>嘉兴学院本科，市场营销（2026年毕业）：2022/08至今</p>\n<ul>\n<li>综合绩点（GPA）：3.8/4.0，专业排名第一，校级一等奖学金</li>\n</ul>\n<h2> 实习经历</h2>\n<p>欧莱雅（ 远程）：市场助理  2023/04-2023/05</p>","y":"a","t":"个人介绍","i":"profile"},[":md"]],
+  ["v-858cfdd6","/zh/intro.html",{"y":"a","t":"个人介绍","i":"profile"},[":md"]],
   ["v-1b43b226","/zh/%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86.html",{"y":"a","t":"制作网页的笔记整理","i":"zhuanjiaketang-jihuo"},["/zh/笔记整理.html","/zh/笔记整理.md",":md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},[]],
   ["v-5bc93818","/category/",{"y":"p","t":"Category","I":0},[]],
