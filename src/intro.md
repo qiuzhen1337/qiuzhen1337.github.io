@@ -14,7 +14,7 @@ date: 2023-08-07 17:20:35
 
 - qiuzhenqzzz@gmail.com
 
-- 所在地：宁波
+- Location : Ningbo
 
 ## educational background
 

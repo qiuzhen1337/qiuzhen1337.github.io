@@ -7,7 +7,7 @@
 <p><a href="mailto:qiuzhenqzzz@gmail.com">qiuzhenqzzz@gmail.com</a></p>
 </li>
 <li>
-<p>所在地：宁波</p>
+<p>Location : Ningbo</p>
 </li>
 </ul>
 <h2 id="educational-background" tabindex="-1"><a class="header-anchor" href="#educational-background" aria-hidden="true">#</a> educational background</h2>
