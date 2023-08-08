@@ -1,56 +1,61 @@
-<template><div><h2 id="联系方式" tabindex="-1"><a class="header-anchor" href="#联系方式" aria-hidden="true">#</a> 联系方式</h2>
-<ul>
-<li>+86 150-5744-1337</li>
-<li><a href="mailto:qiuzhenqzzz@gmail.com">qiuzhenqzzz@gmail.com</a></li>
-<li>坐标：宁波</li>
-</ul>
-<h2 id="教育背景" tabindex="-1"><a class="header-anchor" href="#教育背景" aria-hidden="true">#</a> 教育背景</h2>
-<p>嘉兴学院本科，市场营销（2026年毕业）：2022/08至今</p>
-<ul>
-<li>综合绩点（GPA）：3.8/4.0，专业排名第一，校级一等奖学金</li>
-</ul>
-<h2 id="实习经历" tabindex="-1"><a class="header-anchor" href="#实习经历" aria-hidden="true">#</a> 实习经历</h2>
-<p>欧莱雅（ 远程）：市场助理  2023/04-2023/05</p>
-<h2 id="课外活动-社团经历" tabindex="-1"><a class="header-anchor" href="#课外活动-社团经历" aria-hidden="true">#</a> 课外活动/社团经历</h2>
+<template><div><h2 id="contact-information" tabindex="-1"><a class="header-anchor" href="#contact-information" aria-hidden="true">#</a> Contact Information</h2>
 <ul>
 <li>
-<p>南湖革命纪念馆志愿宣讲队成员</p>
+<p>+86 150-5744-1337</p>
 </li>
 <li>
-<p>商学院演讲赛亚军获得者</p>
+<p><a href="mailto:qiuzhenqzzz@gmail.com">qiuzhenqzzz@gmail.com</a></p>
 </li>
 <li>
-<p>校主持队副队长，多次主持校内大型活动</p>
-</li>
-<li>
-<p>担任校史宣传视频主讲</p>
-</li>
-<li>
-<p>班级心理委员</p>
+<p>所在地：宁波</p>
 </li>
 </ul>
-<h2 id="学科竞赛" tabindex="-1"><a class="header-anchor" href="#学科竞赛" aria-hidden="true">#</a> 学科竞赛</h2>
+<h2 id="educational-background" tabindex="-1"><a class="header-anchor" href="#educational-background" aria-hidden="true">#</a> educational background</h2>
+<p>Jiaxing University ,  Bachelor , Marketing ( graduate2026) : 2022/08 to present</p>
+<ul>
+<li>GPA：3.8/4.0，rankend first in major，university-level first-class scholarship</li>
+</ul>
+<h2 id="internship-experience" tabindex="-1"><a class="header-anchor" href="#internship-experience" aria-hidden="true">#</a> Internship Experience</h2>
+<ul>
+<li>L’Oreal ( remote ) : Marketing Assistant	2023/08-2023/09</li>
+</ul>
+<h2 id="extracurricular-activities-club-experience" tabindex="-1"><a class="header-anchor" href="#extracurricular-activities-club-experience" aria-hidden="true">#</a> Extracurricular activities/club experience</h2>
 <ul>
 <li>
-<p>全国大学生英语竞赛省级三等奖</p>
+<p>Member of the volunteer propaganda team at Nanhu Revolutionary Memorial Hall</p>
 </li>
 <li>
-<p>浙江省乡村振兴大赛入围省赛</p>
+<p>Runner-up of Business School speech Contest</p>
 </li>
 <li>
-<p>浙江省经济管理案例竞赛</p>
+<p>Vice leader of the school hosting team, presided over large-scale campus activities for many times</p>
+</li>
+<li>
+<p>Served as the school history propaganda video presenter</p>
+</li>
+<li>
+<p>Commissary in charge of class psychology</p>
 </li>
 </ul>
-<h2 id="其他信息" tabindex="-1"><a class="header-anchor" href="#其他信息" aria-hidden="true">#</a> 其他信息</h2>
+<h2 id="competition-for-college-students" tabindex="-1"><a class="header-anchor" href="#competition-for-college-students" aria-hidden="true">#</a> Competition for College Students</h2>
 <ul>
 <li>
-<p>语言技能：英语（流利，托福/雅思XX分，大学英语四级562分，六级xx）</p>
+<p>Zhejiang Provincial Rural Revitalization Competition was selected for the provincial competition</p>
 </li>
 <li>
-<p>IT技能：Office，python</p>
+<p>Zhejiang Province economic management case competition</p>
+</li>
+</ul>
+<h2 id="other-information" tabindex="-1"><a class="header-anchor" href="#other-information" aria-hidden="true">#</a> Other information</h2>
+<ul>
+<li>
+<p>Language skills: English (fluent, TOEFL/IELTS XX, CET-4 562, CET-6 xx)</p>
 </li>
 <li>
-<p>兴趣爱好：演讲，宣讲，辩论，阅读</p>
+<p>IT skills: Office, python</p>
+</li>
+<li>
+<p>Interests: Speaking, preaching, debating, reading</p>
 </li>
 </ul>
 </div></template>

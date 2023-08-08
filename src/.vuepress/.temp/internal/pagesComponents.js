@@ -9,6 +9,8 @@ export const pagesComponents = {
   "v-2d0ad528": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0ad528" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/index.html.vue")),
   // path: /zh/intro.html
   "v-858cfdd6": defineAsyncComponent(() => import(/* webpackChunkName: "v-858cfdd6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/intro.html.vue")),
+  // path: /zh/%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86.html
+  "v-1b43b226": defineAsyncComponent(() => import(/* webpackChunkName: "v-1b43b226" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/笔记整理.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/404.html.vue")),
   // path: /category/
@@ -31,6 +33,8 @@ export const pagesComponents = {
   "v-2c3ee7f5": defineAsyncComponent(() => import(/* webpackChunkName: "v-2c3ee7f5" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/star/index.html.vue")),
   // path: /zh/timeline/
   "v-27b02be6": defineAsyncComponent(() => import(/* webpackChunkName: "v-27b02be6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/timeline/index.html.vue")),
-  // path: /zh/%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86.html
-  "v-1b43b226": defineAsyncComponent(() => import(/* webpackChunkName: "v-1b43b226" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/笔记整理.html.vue")),
+  // path: /zh/category/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C/
+  "v-f910a1ec": defineAsyncComponent(() => import(/* webpackChunkName: "v-f910a1ec" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/category/网站制作/index.html.vue")),
+  // path: /zh/tag/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C/
+  "v-4280e556": defineAsyncComponent(() => import(/* webpackChunkName: "v-4280e556" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/tag/网站制作/index.html.vue")),
 }

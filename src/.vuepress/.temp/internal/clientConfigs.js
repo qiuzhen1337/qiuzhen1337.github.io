@@ -10,6 +10,7 @@ import clientConfig8 from '/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepres
 import clientConfig9 from '/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/md-enhance/config.js'
 import clientConfig10 from '/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-plugin-photo-swipe@2.0.0-beta.233_vuepress@2.0.0-beta.66/node_modules/vuepress-plugin-photo-swipe/lib/client/config.js'
 import clientConfig11 from '/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/theme-hope/config.js'
+import clientConfig12 from '/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-plugin-search-pro@2.0.0-beta.234_vuepress@2.0.0-beta.66/node_modules/vuepress-plugin-search-pro/lib/client/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -24,4 +25,5 @@ export const clientConfigs = [
   clientConfig9,
   clientConfig10,
   clientConfig11,
+  clientConfig12,
 ]

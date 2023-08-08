@@ -1,56 +1,54 @@
 ---
 home: false
 icon: profile
-title: 个人介绍
+title: Personal Introduction
 heroText: Personal Introduction
 tagline: Keep your promise,walk the talk.
 timeline: true
-date: 2023-08-05 07:28:48
+date: 2023-08-07 17:20:35
 ---
 
-## 联系方式
+## Contact Information
 
 - +86 150-5744-1337
+
 - qiuzhenqzzz@gmail.com
-- 坐标：宁波
 
-## 教育背景
+- 所在地：宁波
 
-嘉兴学院本科，市场营销（2026年毕业）：2022/08至今
+## educational background
 
-- 综合绩点（GPA）：3.8/4.0，专业排名第一，校级一等奖学金
+ Jiaxing University ,  Bachelor , Marketing ( graduate2026) : 2022/08 to present
 
-## 实习经历
+- GPA：3.8/4.0，rankend first in major，university-level first-class scholarship
 
-欧莱雅（ 远程）：市场助理  2023/04-2023/05
+## Internship Experience
 
-## 课外活动/社团经历
+- L’Oreal ( remote ) : Marketing Assistant	2023/08-2023/09
 
-- 南湖革命纪念馆志愿宣讲队成员
+## Extracurricular activities/club experience
 
-- 商学院演讲赛亚军获得者
+- Member of the volunteer propaganda team at Nanhu Revolutionary Memorial Hall
 
-- 校主持队副队长，多次主持校内大型活动
+- Runner-up of Business School speech Contest
 
-- 担任校史宣传视频主讲
+- Vice leader of the school hosting team, presided over large-scale campus activities for many times
 
-- 班级心理委员
+- Served as the school history propaganda video presenter
 
-## 学科竞赛
+- Commissary in charge of class psychology
 
-- 全国大学生英语竞赛省级三等奖
+## Competition for College Students
 
-- 浙江省乡村振兴大赛入围省赛
+- Zhejiang Provincial Rural Revitalization Competition was selected for the provincial competition
 
-- 浙江省经济管理案例竞赛
+- Zhejiang Province economic management case competition
 
-## 其他信息
+## Other information
 
-- 语言技能：英语（流利，托福/雅思XX分，大学英语四级562分，六级xx）
+- Language skills: English (fluent, TOEFL/IELTS XX, CET-4 562, CET-6 xx)
 
-- IT技能：Office，python
+- IT skills: Office, python
 
-- 兴趣爱好：演讲，宣讲，辩论，阅读
-
- 
+- Interests: Speaking, preaching, debating, reading 
 

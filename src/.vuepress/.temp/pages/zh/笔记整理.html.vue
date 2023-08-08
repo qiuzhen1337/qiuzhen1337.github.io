@@ -63,11 +63,27 @@
 <h2 id="快速把多个页面并到一起" tabindex="-1"><a class="header-anchor" href="#快速把多个页面并到一起" aria-hidden="true">#</a> 快速把多个页面并到一起</h2>
 <p>command+n</p>
 <figure><img src="@source/zh/笔记整理.assets/image-20230806085623481.png" alt="image-20230806085623481" tabindex="0" loading="lazy"><figcaption>image-20230806085623481</figcaption></figure>
+<h2 id="如何打开仓库-查看部署" tabindex="-1"><a class="header-anchor" href="#如何打开仓库-查看部署" aria-hidden="true">#</a> 如何打开仓库，查看部署</h2>
 <figure><img src="@source/zh/笔记整理.assets/image-20230806092154452.png" alt="image-20230806092154452" tabindex="0" loading="lazy"><figcaption>image-20230806092154452</figcaption></figure>
-<figure><img src="@source/zh/笔记整理.assets/image-20230806092232975.png" alt="image-20230806092232975" tabindex="0" loading="lazy"><figcaption>image-20230806092232975</figcaption></figure>
+<h2 id="中英文网页文件区分" tabindex="-1"><a class="header-anchor" href="#中英文网页文件区分" aria-hidden="true">#</a> 中英文网页文件区分</h2>
+<figure><img src="@source/zh/笔记整理.assets/image-20230806092232975.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <figure><img src="@source/zh/笔记整理.assets/image-20230806092340374.png" alt="image-20230806092340374" tabindex="0" loading="lazy"><figcaption>image-20230806092340374</figcaption></figure>
 <h2 id="如何打出淡色框" tabindex="-1"><a class="header-anchor" href="#如何打出淡色框" aria-hidden="true">#</a> 如何打出淡色框</h2>
 <p>三个- + enter</p>
+<h2 id="获取准确时间" tabindex="-1"><a class="header-anchor" href="#获取准确时间" aria-hidden="true">#</a> 获取准确时间</h2>
+<p><a href="https://bornforthis.cn/python/#/" target="_blank" rel="noopener noreferrer">https://bornforthis.cn/python/#/<ExternalLinkIcon/></a></p>
+<h2 id="如何打出圆点" tabindex="-1"><a class="header-anchor" href="#如何打出圆点" aria-hidden="true">#</a> 如何打出圆点</h2>
+<p>减号+空格</p>
+<h2 id="撤回" tabindex="-1"><a class="header-anchor" href="#撤回" aria-hidden="true">#</a> 撤回</h2>
+<p>command + z</p>
+<h2 id="停止" tabindex="-1"><a class="header-anchor" href="#停止" aria-hidden="true">#</a> 停止</h2>
+<p>Control + c</p>
+<h2 id="剪切" tabindex="-1"><a class="header-anchor" href="#剪切" aria-hidden="true">#</a> 剪切</h2>
+<p>Control + x</p>
+<h2 id="在自己网页里搜索关键词定位文章内容" tabindex="-1"><a class="header-anchor" href="#在自己网页里搜索关键词定位文章内容" aria-hidden="true">#</a> 在自己网页里搜索关键词定位文章内容</h2>
+<p><a href="https://theme-hope.vuejs.press/zh/guide/feature/search.html" target="_blank" rel="noopener noreferrer">https://theme-hope.vuejs.press/zh/guide/feature/search.html<ExternalLinkIcon/></a></p>
+<figure><img src="@source/zh/笔记整理.assets/image-20230808082656144.png" alt="image-20230808082656144" tabindex="0" loading="lazy"><figcaption>image-20230808082656144</figcaption></figure>
+<figure><img src="@source/zh/笔记整理.assets/image-20230808082728705.png" alt="image-20230808082728705" tabindex="0" loading="lazy"><figcaption>image-20230808082728705</figcaption></figure>
 </div></template>
 
 

@@ -7,6 +7,8 @@ export const pagesData = {
   "v-2d0ad528": () => import(/* webpackChunkName: "v-2d0ad528" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/index.html.js").then(({ data }) => data),
   // path: /zh/intro.html
   "v-858cfdd6": () => import(/* webpackChunkName: "v-858cfdd6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/intro.html.js").then(({ data }) => data),
+  // path: /zh/%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86.html
+  "v-1b43b226": () => import(/* webpackChunkName: "v-1b43b226" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/笔记整理.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /category/
@@ -29,6 +31,8 @@ export const pagesData = {
   "v-2c3ee7f5": () => import(/* webpackChunkName: "v-2c3ee7f5" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/star/index.html.js").then(({ data }) => data),
   // path: /zh/timeline/
   "v-27b02be6": () => import(/* webpackChunkName: "v-27b02be6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/timeline/index.html.js").then(({ data }) => data),
-  // path: /zh/%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86.html
-  "v-1b43b226": () => import(/* webpackChunkName: "v-1b43b226" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/笔记整理.html.js").then(({ data }) => data),
+  // path: /zh/category/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C/
+  "v-f910a1ec": () => import(/* webpackChunkName: "v-f910a1ec" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/category/网站制作/index.html.js").then(({ data }) => data),
+  // path: /zh/tag/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C/
+  "v-4280e556": () => import(/* webpackChunkName: "v-4280e556" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/tag/网站制作/index.html.js").then(({ data }) => data),
 }

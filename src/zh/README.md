@@ -9,41 +9,41 @@ heroText: qz 的奇思妙想屋
 heroFullScreen: true
 tagline: Keep your promise,walk the talk.
 projects:
-  - icon: project
+  - icon: android
     name: 编程技能分享
-    desc: 项目详细描述
+    desc: 从0到∞
     link: https://你的项目链接
 
-  - icon: link
-    name: 其他计算机技能分享
-    desc: 链接详细描述
+  - icon: keyboard
+    name: 其他电脑技能分享
+    desc: 紧跟时代步伐🫡
     link: https://链接地址
 
-  - icon: book
+  - icon: list
     name: 其他技能分享
-    desc: 书籍详细描述
+    desc: 热爱&能力
     link: https://你的书籍链接
 
-  - icon: article
+  - icon: profile
     name: 个人介绍
-    desc: 文章详细描述
+    desc: 你好，我是仇真
     link: https://你的文章链接
 
-  - icon: friend
+  - icon: people
     name: 个人经历
-    desc: 伙伴详细介绍
+    desc: 脚踏实地
     link: https://你的伙伴链接
 
-  - icon: /logo.svg
+  - icon: discover
     name: 一些奇思妙想
-    desc: 自定义详细介绍
+    desc: 仰望星空
     link: https://你的自定义链接
 
-  - icon: /logo.svg
+  - icon: write
     name: 阅读笔记
-    desc: 自定义详细介绍
+    desc: 不动笔墨不看书
     link: https://你的自定义链接
 
-footer: abcdef
+footer: walk the talk.
 ---
 
