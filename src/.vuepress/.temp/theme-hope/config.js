@@ -1,16 +1,16 @@
 import { defineClientConfig } from "@vuepress/client";
-import { VPLink } from "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-shared@2.0.0-beta.233_vuepress@2.0.0-beta.66/node_modules/vuepress-shared/lib/client/index.js";
+import { VPLink } from "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-shared@2.0.0-beta.234_vuepress@2.0.0-beta.66/node_modules/vuepress-shared/lib/client/index.js";
 
-import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.233_vuepress@2.0.0-beta.66/node_modules/vuepress-theme-hope/lib/bundle/export.js";
+import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.234_vuepress@2.0.0-beta.66/node_modules/vuepress-theme-hope/lib/bundle/export.js";
 
-import { defineAutoCatalogIconComponent } from "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-plugin-auto-catalog@2.0.0-beta.233_vuepress@2.0.0-beta.66/node_modules/vuepress-plugin-auto-catalog/lib/client/index.js"
-import { BlogCategory, BlogHome, BlogType, BloggerInfo, Timeline, setupBlog } from "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.233_vuepress@2.0.0-beta.66/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/export.js";
-import "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.233_vuepress@2.0.0-beta.66/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/styles/all.scss";
-import { GlobalEncrypt, LocalEncrypt } from "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.233_vuepress@2.0.0-beta.66/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
-import "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.233_vuepress@2.0.0-beta.66/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
-import Slide from "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.233_vuepress@2.0.0-beta.66/node_modules/vuepress-plugin-md-enhance/lib/client/SlidePage.js";
+import { defineAutoCatalogIconComponent } from "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-plugin-auto-catalog@2.0.0-beta.234_vuepress@2.0.0-beta.66/node_modules/vuepress-plugin-auto-catalog/lib/client/index.js"
+import { BlogCategory, BlogHome, BlogType, BloggerInfo, Timeline, setupBlog } from "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.234_vuepress@2.0.0-beta.66/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/export.js";
+import "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.234_vuepress@2.0.0-beta.66/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/styles/all.scss";
+import { GlobalEncrypt, LocalEncrypt } from "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.234_vuepress@2.0.0-beta.66/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
+import "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.234_vuepress@2.0.0-beta.66/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
+import Slide from "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.234_vuepress@2.0.0-beta.66/node_modules/vuepress-plugin-md-enhance/lib/client/SlidePage.js";
 
-import "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.233_vuepress@2.0.0-beta.66/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
+import "/Users/qiuzhen/walkthetalk/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.234_vuepress@2.0.0-beta.66/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
 
 defineAutoCatalogIconComponent(HopeIcon);
 
