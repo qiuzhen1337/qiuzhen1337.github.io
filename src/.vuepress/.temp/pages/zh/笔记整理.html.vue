@@ -84,6 +84,9 @@
 <p><a href="https://theme-hope.vuejs.press/zh/guide/feature/search.html" target="_blank" rel="noopener noreferrer">https://theme-hope.vuejs.press/zh/guide/feature/search.html<ExternalLinkIcon/></a></p>
 <figure><img src="@source/zh/笔记整理.assets/image-20230808082656144.png" alt="image-20230808082656144" tabindex="0" loading="lazy"><figcaption>image-20230808082656144</figcaption></figure>
 <figure><img src="@source/zh/笔记整理.assets/image-20230808082728705.png" alt="image-20230808082728705" tabindex="0" loading="lazy"><figcaption>image-20230808082728705</figcaption></figure>
+<h2 id="部署到底有什么用" tabindex="-1"><a class="header-anchor" href="#部署到底有什么用" aria-hidden="true">#</a> 部署到底有什么用</h2>
+<p>一方面概括自己干了什么</p>
+<p>一方面把修改过的数据提交</p>
 </div></template>
 
 
