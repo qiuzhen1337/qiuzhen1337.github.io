@@ -1,7 +1,7 @@
 ---
 home: true
 layout: BlogHome
-icon: home
+icon: homefill
 title: qz 的奇思妙想屋
 heroImage: /logo.png
 bgImage: /background.png
@@ -14,7 +14,7 @@ projects:
     desc: 从0到∞
     link: https://你的项目链接
 
-  - icon: diannao_o
+  - icon: jurassic_pc
     name: 其他电脑技能分享
     desc: 紧跟时代步伐🫡
     link: https://链接地址
@@ -29,7 +29,7 @@ projects:
     desc: 你好，我是仇真
     link: https://你的文章链接
 
-  - icon: sportgirl
+  - icon: -sportgirl
     name: 个人经历
     desc: 脚踏实地
     link: https://你的伙伴链接

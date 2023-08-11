@@ -87,6 +87,11 @@
 <h2 id="部署到底有什么用" tabindex="-1"><a class="header-anchor" href="#部署到底有什么用" aria-hidden="true">#</a> 部署到底有什么用</h2>
 <p>一方面概括自己干了什么</p>
 <p>一方面把修改过的数据提交</p>
+<figure><img src="@source/zh/笔记整理.assets/image-20230812074900289.png" alt="image-20230812074900289" tabindex="0" loading="lazy"><figcaption>image-20230812074900289</figcaption></figure>
+<figure><img src="@source/zh/笔记整理.assets/image-20230812074937473.png" alt="image-20230812074937473" tabindex="0" loading="lazy"><figcaption>image-20230812074937473</figcaption></figure>
+<figure><img src="@source/zh/笔记整理.assets/image-20230812075017017.png" alt="image-20230812075017017" tabindex="0" loading="lazy"><figcaption>image-20230812075017017</figcaption></figure>
+<figure><img src="@source/zh/笔记整理.assets/image-20230812075041650.png" alt="image-20230812075041650" tabindex="0" loading="lazy"><figcaption>image-20230812075041650</figcaption></figure>
+<figure><img src="@source/zh/笔记整理.assets/image-20230812075118226.png" alt="image-20230812075118226" tabindex="0" loading="lazy"><figcaption>image-20230812075118226</figcaption></figure>
 </div></template>
 
 
