@@ -132,8 +132,10 @@ export default hopeTheme({
       reaction: [
         'https://unpkg.com/@waline/emojis@1.1.0/bilibili/bb_heart_eyes.png',
         'https://unpkg.com/@waline/emojis@1.1.0/bilibili/bb_antic.png',
+        'https://unpkg.com/@waline/emojis@1.1.0/bilibili/bb_yum1.png',
         'https://unpkg.com/@waline/emojis@1.1.0/bilibili/bb_miantian.png',
         'https://unpkg.com/@waline/emojis@1.1.0/bilibili/bb_smirk.png',
+        'https://unpkg.com/@waline/emojis@1.1.0/bilibili/bb_nosebleed.png',
       ],
       comment: true,
       pageview: true,
