@@ -129,6 +129,12 @@ export default hopeTheme({
       // You should generate and use your own comment service
       provider: "Waline",
       serverURL: "https://mycomment.weonlygettoday.com/",
+      reaction: true,
+      comment: true,
+      pageview: true,
+      copyright: false,
+      dark: "auto",
+
     },
 
     // all features are enabled for demo, only preserve features you need here
