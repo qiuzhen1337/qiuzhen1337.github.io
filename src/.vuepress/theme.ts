@@ -134,7 +134,7 @@ export default hopeTheme({
         'https://unpkg.com/browse/@waline/emojis@1.1.0/bilibili/bb_antic.png',
         'https://unpkg.com/browse/@waline/emojis@1.1.0/bilibili/bb_miantian.png',
         'https://unpkg.com/browse/@waline/emojis@1.1.0/bilibili/bb_smirk.png',
-      ]，
+      ],
       comment: true,
       pageview: true,
       copyright: false,
