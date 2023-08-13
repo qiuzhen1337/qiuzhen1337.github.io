@@ -96,6 +96,9 @@
 <p><img src="@source/zh/笔记整理.assets/image-20230813080956893.png" alt="image-20230813080956893" loading="lazy"><img src="@source/zh/笔记整理.assets/image-20230813081031435.png" alt="image-20230813081031435" loading="lazy"></p>
 <figure><img src="@source/zh/笔记整理.assets/image-20230813081053602.png" alt="image-20230813081053602" tabindex="0" loading="lazy"><figcaption>image-20230813081053602</figcaption></figure>
 <figure><img src="@source/zh/笔记整理.assets/image-20230813082355006.png" alt="image-20230813082355006" tabindex="0" loading="lazy"><figcaption>image-20230813082355006</figcaption></figure>
+<h2 id="如何设置自己的评论区教程以及各种表情包资源" tabindex="-1"><a class="header-anchor" href="#如何设置自己的评论区教程以及各种表情包资源" aria-hidden="true">#</a> 如何设置自己的评论区教程以及各种表情包资源</h2>
+<p><a href="https://waline.js.org/guide/get-started/" target="_blank" rel="noopener noreferrer">https://waline.js.org/guide/get-started/<ExternalLinkIcon/></a></p>
+<p><a href="https://unpkg.com/browse/@waline/emojis@1.1.0/" target="_blank" rel="noopener noreferrer">https://unpkg.com/browse/@waline/emojis@1.1.0/<ExternalLinkIcon/></a></p>
 </div></template>
 
 

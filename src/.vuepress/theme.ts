@@ -129,7 +129,12 @@ export default hopeTheme({
       // You should generate and use your own comment service
       provider: "Waline",
       serverURL: "https://mycomment.weonlygettoday.com/",
-      reaction: true,
+      reaction: [
+        'https://unpkg.com/browse/@waline/emojis@1.1.0/bilibili/bb_heart_eyes.png',
+        'https://unpkg.com/browse/@waline/emojis@1.1.0/bilibili/bb_antic.png',
+        'https://unpkg.com/browse/@waline/emojis@1.1.0/bilibili/bb_miantian.png',
+        'https://unpkg.com/browse/@waline/emojis@1.1.0/bilibili/bb_smirk.png',
+      ]
       comment: true,
       pageview: true,
       copyright: false,
