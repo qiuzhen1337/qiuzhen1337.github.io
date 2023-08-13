@@ -99,6 +99,8 @@
 <h2 id="如何设置自己的评论区教程以及各种表情包资源" tabindex="-1"><a class="header-anchor" href="#如何设置自己的评论区教程以及各种表情包资源" aria-hidden="true">#</a> 如何设置自己的评论区教程以及各种表情包资源</h2>
 <p><a href="https://waline.js.org/guide/get-started/" target="_blank" rel="noopener noreferrer">https://waline.js.org/guide/get-started/<ExternalLinkIcon/></a></p>
 <p><a href="https://unpkg.com/browse/@waline/emojis@1.1.0/" target="_blank" rel="noopener noreferrer">https://unpkg.com/browse/@waline/emojis@1.1.0/<ExternalLinkIcon/></a></p>
+<h2 id="可直接打开" tabindex="-1"><a class="header-anchor" href="#可直接打开" aria-hidden="true">#</a> 可直接打开</h2>
+<p>command按住 + 点击链接</p>
 </div></template>
 
 
