@@ -102,7 +102,6 @@
 <h2 id="可直接打开" tabindex="-1"><a class="header-anchor" href="#可直接打开" aria-hidden="true">#</a> 可直接打开</h2>
 <p>command按住 + 点击链接</p>
 <figure><img src="@source/zh/笔记整理.assets/image-20230813090004922.png" alt="image-20230813090004922" tabindex="0" loading="lazy"><figcaption>image-20230813090004922</figcaption></figure>
-<figure><img src="@source/zh/笔记整理.assets/image-20230818073922771.png" alt="image-20230818073922771" tabindex="0" loading="lazy"><figcaption>image-20230818073922771</figcaption></figure>
 </div></template>
 
 

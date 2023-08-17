@@ -1,52 +1,35 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
-  "/zh/",
-  "/zh/demo/",
-  {
-    text: "博文",
-    icon: "pen-to-square",
-    prefix: "/zh/posts/",
+  { text: "日积月累", 
+    icon: "#",
     children: [
-      {
-        text: "苹果",
-        icon: "pen-to-square",
-        prefix: "apple/",
-        children: [
-          { text: "苹果1", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
-          "3",
-          "4",
-        ],
-      },
-      {
-        text: "香蕉",
-        icon: "pen-to-square",
-        prefix: "banana/",
-        children: [
-          {
-            text: "香蕉 1",
-            icon: "pen-to-square",
-            link: "1",
-          },
-          {
-            text: "香蕉 2",
-            icon: "pen-to-square",
-            link: "2",
-          },
-          "3",
-          "4",
-        ],
-      },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
+      { text: "年", icon: "#", link: "#"},
+      { text: "月", icon: "#", link: "#"},
+      { text: "日", icon: "#", link: "#"},
     ],
   },
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
-  },
+  { text: "技能分享", 
+  icon: "#",
+  children: [
+    { text: "编程", icon: "#", link: "#"},
+    { text: "Z时代必备", icon: "#", link: "#"},
+    { text: "热爱&提升", icon: "#", link: "#"},
+  ],
+},
+  { text: "一些奇思妙想", 
+  icon: "#",
+  children: [
+    { text: "时事见解", icon: "#", link: "#"},
+    { text: "个人思考", icon: "#", link: "#"},
+    { text: "阅读笔记", icon: "#", link: "#"},
+  ],
+},
+  { text: "关于我", 
+  icon: "-sportgirl",
+  children: [
+    { text: "个人介绍", icon: "#", link: "#"},
+    { text: "活动经历", icon: "#", link: "#"},
+  ],
+},
 ]);
