@@ -101,9 +101,12 @@
 <p><a href="https://unpkg.com/browse/@waline/emojis@1.1.0/" target="_blank" rel="noopener noreferrer">https://unpkg.com/browse/@waline/emojis@1.1.0/<ExternalLinkIcon/></a></p>
 <h2 id="可直接打开" tabindex="-1"><a class="header-anchor" href="#可直接打开" aria-hidden="true">#</a> 可直接打开</h2>
 <p>command按住 + 点击链接</p>
+<h2 id="网页所有内容的路径" tabindex="-1"><a class="header-anchor" href="#网页所有内容的路径" aria-hidden="true">#</a> 网页所有内容的路径</h2>
 <figure><img src="@source/zh/笔记整理.assets/image-20230813090004922.png" alt="image-20230813090004922" tabindex="0" loading="lazy"><figcaption>image-20230813090004922</figcaption></figure>
+<h2 id="如何修改菜单栏-主" tabindex="-1"><a class="header-anchor" href="#如何修改菜单栏-主" aria-hidden="true">#</a> 如何修改菜单栏（主）</h2>
 <figure><img src="@source/zh/笔记整理.assets/image-20230818073922771.png" alt="image-20230818073922771" tabindex="0" loading="lazy"><figcaption>image-20230818073922771</figcaption></figure>
-<figure><img src="@source/zh/笔记整理.assets/image-20230818080106877.png" alt="image-20230818080106877" tabindex="0" loading="lazy"><figcaption>image-20230818080106877</figcaption></figure>
+<h2 id="遇到重复文章怎么办" tabindex="-1"><a class="header-anchor" href="#遇到重复文章怎么办" aria-hidden="true">#</a> 遇到重复文章怎么办</h2>
+<figure><img src="@source/zh/笔记整理.assets/image-20230818080215545.png" alt="image-20230818080215545" tabindex="0" loading="lazy"><figcaption>image-20230818080215545</figcaption></figure>
 </div></template>
 
 
