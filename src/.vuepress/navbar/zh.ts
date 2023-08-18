@@ -28,7 +28,7 @@ export const zhNavbar = navbar([
   { text: "关于我", 
   icon: "-sportgirl",
   children: [
-    { text: "个人介绍", icon: "#", link: "#"},
+    { text: "个人介绍", icon: "#", link: "/zh/intro.html"},
     { text: "活动经历", icon: "#", link: "#"},
   ],
 },
