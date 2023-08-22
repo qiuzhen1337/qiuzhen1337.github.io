@@ -1,6 +1,6 @@
 import { navbar } from "vuepress-theme-hope";
 
-export const zhNavbar = navbar([
+export const enNavbar = navbar([
   { text: "accumulating", 
     icon: "#",
     children: [
