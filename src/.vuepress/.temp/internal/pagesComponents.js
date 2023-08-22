@@ -9,8 +9,10 @@ export const pagesComponents = {
   "v-2d0ad528": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0ad528" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/index.html.vue")),
   // path: /zh/intro.html
   "v-858cfdd6": defineAsyncComponent(() => import(/* webpackChunkName: "v-858cfdd6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/intro.html.vue")),
-  // path: /zh/%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86.html
-  "v-1b43b226": defineAsyncComponent(() => import(/* webpackChunkName: "v-1b43b226" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/笔记整理.html.vue")),
+  // path: /zh/programming/
+  "v-f8ddd8c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-f8ddd8c4" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/programming/index.html.vue")),
+  // path: /zh/programming/webpage-making.html
+  "v-1112b946": defineAsyncComponent(() => import(/* webpackChunkName: "v-1112b946" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/programming/webpage-making.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/404.html.vue")),
   // path: /category/

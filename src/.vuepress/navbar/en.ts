@@ -28,7 +28,7 @@ export const enNavbar = navbar([
   { text: "about me", 
   icon: "-sportgirl",
   children: [
-    { text: "personal introduction", icon: "#", link: "/zh/intro.html"},
+    { text: "personal introduction", icon: "#", link: "/intro.html"},
     { text: "activity experience", icon: "#", link: "#"},
   ],
 },
