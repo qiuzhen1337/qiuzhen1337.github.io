@@ -12,7 +12,7 @@ export const enNavbar = navbar([
   { text: "skill sharing", 
   icon: "#",
   children: [
-    { text: "programming", icon: "zhongduan", link: "#"},
+    { text: "programming", icon: "zhongduan", link: "/en/programming/README.md"},
     { text: "necessary for Generation Z", icon: "zeta", link: "#"},
     { text: "devotion & promotion", icon: "aihao", link: "#"},
   ],

@@ -3,10 +3,16 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /intro.html
   "v-184f4da6": () => import(/* webpackChunkName: "v-184f4da6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/intro.html.js").then(({ data }) => data),
+  // path: /en/
+  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
+  // path: /en/intro.html
+  "v-5aa3d8ba": () => import(/* webpackChunkName: "v-5aa3d8ba" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/en/intro.html.js").then(({ data }) => data),
   // path: /zh/
   "v-2d0ad528": () => import(/* webpackChunkName: "v-2d0ad528" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/index.html.js").then(({ data }) => data),
   // path: /zh/intro.html
   "v-858cfdd6": () => import(/* webpackChunkName: "v-858cfdd6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/intro.html.js").then(({ data }) => data),
+  // path: /en/programming/
+  "v-6fc41603": () => import(/* webpackChunkName: "v-6fc41603" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/en/programming/index.html.js").then(({ data }) => data),
   // path: /zh/programming/
   "v-f8ddd8c4": () => import(/* webpackChunkName: "v-f8ddd8c4" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/programming/index.html.js").then(({ data }) => data),
   // path: /zh/programming/webpage-making.html
