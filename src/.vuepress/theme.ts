@@ -117,7 +117,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
+      "/zh/programming/webpage-making.html": ["1234","2345"],
       "/zh/demo/encrypt.html": ["1234"],
     },
   },
@@ -148,14 +148,18 @@ export default hopeTheme({
     mdEnhance: {
       align: true,
       attrs: true,
+      container: true,
+      card: true,
       chart: true,
       codetabs: true,
       demo: true,
       echarts: true,
       figure: true,
       flowchart: true,
+      footnote: true,
       gfm: true,
       imgLazyload: true,
+      imgMark: true,
       imgSize: true,
       include: true,
       katex: true,
@@ -181,6 +185,7 @@ export default hopeTheme({
       sub: true,
       sup: true,
       tabs: true,
+      tasklist: true,
       vPre: true,
       vuePlayground: true,
     },

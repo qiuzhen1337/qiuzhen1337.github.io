@@ -32,6 +32,6 @@
 </tr>
 </tbody>
 </table>
-</div></template>
+<VPCard v-bind='{"title":"网页制作","desc":"笔记整理","logo":"/logo.png","link":"/zh/programming/webpage-making.md","color":"rgba(255,192,203,1.000)"}' /><VPCard v-bind='{"title":"python","desc":"基础","logo":"/logo.png","link":"/zh/programming/webpage-making.md","color":"rgba(255,192,203,1.000)"}' /></div></template>
 
 
