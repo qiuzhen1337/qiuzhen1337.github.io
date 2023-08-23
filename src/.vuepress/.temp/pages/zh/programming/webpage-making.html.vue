@@ -108,6 +108,8 @@
 <figure><img src="@source/zh/programming/webpage-making.assets/image-20230818073922771.png" alt="image-20230818073922771" tabindex="0" loading="lazy"><figcaption>image-20230818073922771</figcaption></figure>
 <h2 id="遇到重复文章怎么办" tabindex="-1"><a class="header-anchor" href="#遇到重复文章怎么办" aria-hidden="true">#</a> 遇到重复文章怎么办</h2>
 <figure><img src="@source/zh/programming/webpage-making.assets/image-20230818080215545.png" alt="image-20230818080215545" tabindex="0" loading="lazy"><figcaption>image-20230818080215545</figcaption></figure>
+<figure><img src="@source/zh/programming/webpage-making.assets/image-20230823080927249.png" alt="image-20230823080927249" tabindex="0" loading="lazy"><figcaption>image-20230823080927249</figcaption></figure>
+<figure><img src="@source/zh/programming/webpage-making.assets/image-20230823082051569.png" alt="image-20230823082051569" tabindex="0" loading="lazy"><figcaption>image-20230823082051569</figcaption></figure>
 </div></template>
 
 

@@ -263,3 +263,11 @@ command按住 + 点击链接
 ## 遇到重复文章怎么办
 
 ![image-20230818080215545](./webpage-making.assets/image-20230818080215545.png)
+
+
+
+![image-20230823080927249](./webpage-making.assets/image-20230823080927249.png)
+
+
+
+![image-20230823082051569](./webpage-making.assets/image-20230823082051569.png)
