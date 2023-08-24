@@ -4,15 +4,15 @@ export const zhNavbar = navbar([
   { text: "日积月累", 
     icon: "paobu",
     children: [
-      { text: "年", icon: "trees", link: "#"},
-      { text: "月", icon: "shu", link: "#"},
-      { text: "日", icon: "zhiwu", link: "#"},
+      { text: "年", icon: "trees", link: "/zh/column/accumulating/year"},
+      { text: "月", icon: "shu", link: "/zh/column/accumulatng/month/2023.8.md"},
+      { text: "日", icon: "zhiwu", link: "/zh/column/accumulating/day/2023.8/2023.8.24.md"},
     ],
   },
   { text: "技能分享", 
   icon: "jinengfen",
   children: [
-    { text: "编程", icon: "zhongduan", link: "/zh/programming/README.md"},
+    { text: "编程", icon: "zhongduan", link: "/zh/column/programming/README.md"},
     { text: "Z时代必备", icon: "zeta", link: "#"},
     { text: "热爱&提升", icon: "aihao", link: "#"},
   ],
@@ -28,7 +28,7 @@ export const zhNavbar = navbar([
   { text: "关于我", 
   icon: "-sportgirl1",
   children: [
-    { text: "个人介绍", icon: "gerenxinxi", link: "/zh/intro.html"},
+    { text: "个人介绍", icon: "gerenxinxi", link: "/zh/column/about-me/intro.md"},
     { text: "活动经历", icon: "fighting-game", link: "#"},
   ],
 },
