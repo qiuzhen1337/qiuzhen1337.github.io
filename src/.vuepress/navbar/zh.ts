@@ -5,14 +5,14 @@ export const zhNavbar = navbar([
     icon: "paobu",
     children: [
       { text: "年", icon: "trees", link: "/zh/column/accumulating/year"},
-      { text: "月", icon: "shu", link: "/zh/column/accumulating/month/2023.8.md"},
+      { text: "月", icon: "shu", link: "/zh/column/accumulating/month"},
       { text: "日", icon: "zhiwu", link: "/zh/column/accumulating/day/2023.8/2023.8.24.md"},
     ],
   },
   { text: "技能分享", 
   icon: "jinengfen",
   children: [
-    { text: "编程", icon: "zhongduan", link: "/zh/column/programming/README.md"},
+    { text: "编程", icon: "zhongduan", link: "/zh/column/skill-sharing/programming/README.md"},
     { text: "Z时代必备", icon: "zeta", link: "#"},
     { text: "热爱&提升", icon: "aihao", link: "#"},
   ],
