@@ -117,8 +117,8 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/zh/programming/webpage-making.html": ["1234","2345"],
-      "/zh/demo/encrypt.html": ["1234"],
+      // "/zh/programming/webpage-making.html":
+      // "/zh/demo/encrypt.html":
     },
   },
 
