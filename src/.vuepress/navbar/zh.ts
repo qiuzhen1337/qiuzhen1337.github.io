@@ -5,7 +5,7 @@ export const zhNavbar = navbar([
     icon: "paobu",
     children: [
       { text: "年", icon: "trees", link: "/zh/column/accumulating/year"},
-      { text: "月", icon: "shu", link: "/zh/column/accumulatng/month/2023.8.md"},
+      { text: "月", icon: "shu", link: "/zh/column/accumulating/month/2023.8.md"},
       { text: "日", icon: "zhiwu", link: "/zh/column/accumulating/day/2023.8/2023.8.24.md"},
     ],
   },
