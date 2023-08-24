@@ -119,6 +119,7 @@
 <figure><img src="@source/zh/programming/webpage-making.assets/image-20230823090014256.png" alt="image-20230823090014256" tabindex="0" loading="lazy"><figcaption>image-20230823090014256</figcaption></figure>
 <p>剪切</p>
 <p>Command + X</p>
+<figure><img src="@source/zh/programming/webpage-making.assets/image-20230824083954138.png" alt="image-20230824083954138" tabindex="0" loading="lazy"><figcaption>image-20230824083954138</figcaption></figure>
 </div></template>
 
 
