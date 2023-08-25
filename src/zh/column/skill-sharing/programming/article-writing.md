@@ -36,9 +36,7 @@ backToTop: true
 
 ### 1.2第二种方法
 
-
-
-
+![image-20230825090143375](./article-writing.assets/image-20230825090143375.png)
 
 ## 如何放置代码框
 
@@ -47,3 +45,6 @@ backToTop: true
 ```python
 ```
 
+## 看清楚路径包裹范围
+
+![image-20230825090450524](./article-writing.assets/image-20230825090450524.png)
