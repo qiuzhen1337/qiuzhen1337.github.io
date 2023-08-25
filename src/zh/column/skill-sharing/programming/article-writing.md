@@ -22,6 +22,22 @@ editLink: false
 backToTop: true
 ---
 
-## 如何手动编写目录
+## 1.如何手动编写侧边栏
+
+### 1.1第一种方法
 
 ![image-20230825083531723](./article-writing.assets/image-20230825083531723.png)
+
+### 1.2第二种方法
+
+
+
+
+
+## 如何放置代码框
+
+![image-20230825084154912](./article-writing.assets/image-20230825084154912.png)
+
+```python
+```
+
