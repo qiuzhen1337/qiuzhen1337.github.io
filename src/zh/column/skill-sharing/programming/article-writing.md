@@ -36,7 +36,7 @@ backToTop: true
 
 ### 1.2第二种方法
 
-![image-20230825090143375](./article-writing.assets/image-20230825090143375.png)
+![image-20230825092831050](./article-writing.assets/image-20230825092831050.png)
 
 ## 如何放置代码框
 
