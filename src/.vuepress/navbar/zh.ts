@@ -6,7 +6,7 @@ export const zhNavbar = navbar([
     children: [
       { text: "年", icon: "trees", link: "/zh/column/accumulating/year"},
       { text: "月", icon: "shu", link: "/zh/column/accumulating/month"},
-      { text: "日", icon: "zhiwu", link: "/zh/column/accumulating/day/2023.8/2023.8.24.md"},
+      { text: "日", icon: "zhiwu", link: "/zh/column/accumulating/day"},
     ],
   },
   { text: "技能分享", 
