@@ -28,6 +28,12 @@ backToTop: true
 
 ![image-20230825083531723](./article-writing.assets/image-20230825083531723.png)
 
+注意文件名和title
+
+输入的是文件名，用于识别；网页中侧边栏真正显示的是title
+
+
+
 ### 1.2第二种方法
 
 

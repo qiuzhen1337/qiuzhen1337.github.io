@@ -8,6 +8,8 @@ export const zhSidebar = sidebar({
   "2023.8.24",
   "2023.8.25",
 
+  { text: "xxx", icon: "", link: "xxx"}
+
 ]
 });
 
