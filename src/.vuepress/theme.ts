@@ -105,7 +105,7 @@ export default hopeTheme({
         name:"qz 的奇思妙想屋",
         avatar:"/qsmx.JPG",
         description: "",
-        intro: "/intro",
+        intro: "/zh/column/about-me/intro",
       },
 
       // page meta
