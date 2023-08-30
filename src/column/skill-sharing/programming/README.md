@@ -10,7 +10,7 @@ tagline: 从0到∞
 
 | 名称     | 链接                                                         |
 | -------- | ------------------------------------------------------------ |
-| 网页制作 | [笔记整理](/zh/column/skill-sharing/programming/webpage-making.md) |
+| 网页制作 | [笔记整理](/column/skill-sharing/programming/webpage-making.md) |
 |          |                                                              |
 |          |                                                              |
 |          |                                                              |

@@ -1,1 +1,1 @@
-export const sidebarData = {"/zh/":[],"/zh/programming/":[]};
+export const sidebarData = {"/programming/":[]};

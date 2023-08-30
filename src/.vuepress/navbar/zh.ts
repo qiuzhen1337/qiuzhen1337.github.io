@@ -29,7 +29,7 @@ export const zhNavbar = navbar([
   icon: "-sportgirl1",
   children: [
     { text: "个人介绍", icon: "gerenxinxi", link: "/column/about-me/intro.md"},
-    { text: "活动经历", icon: "fighting-game", link: "/column/about-me/enperience-of-activity"},
+    { text: "活动经历", icon: "fighting-game", link: "/column/about-me/experience-of-activity/"},
   ],
 },
 ]);
