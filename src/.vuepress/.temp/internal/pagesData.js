@@ -1,78 +1,74 @@
 export const pagesData = {
-  // path: /en/intro.html
-  "v-5aa3d8ba": () => import(/* webpackChunkName: "v-5aa3d8ba" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/en/intro.html.js").then(({ data }) => data),
-  // path: /en/programming/
-  "v-6fc41603": () => import(/* webpackChunkName: "v-6fc41603" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/en/programming/index.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/intro.html
-  "v-540d0773": () => import(/* webpackChunkName: "v-540d0773" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/intro.html.js").then(({ data }) => data),
-  // path: /zh/column/accumulating/
-  "v-56961c9f": () => import(/* webpackChunkName: "v-56961c9f" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/accumulating/index.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/experience-of-activity/cet-6.html
-  "v-5d80d476": () => import(/* webpackChunkName: "v-5d80d476" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/experience-of-activity/cet-6.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/experience-of-activity/debate-competition.html
-  "v-5a99c3af": () => import(/* webpackChunkName: "v-5a99c3af" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/experience-of-activity/debate-competition.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/experience-of-activity/memorial-hall-explanation.html
-  "v-b175c96c": () => import(/* webpackChunkName: "v-b175c96c" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/experience-of-activity/memorial-hall-explanation.html.js").then(({ data }) => data),
-  // path: /zh/column/accumulating/Month/2023.8.html
-  "v-947048fc": () => import(/* webpackChunkName: "v-947048fc" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/accumulating/Month/2023.8.html.js").then(({ data }) => data),
-  // path: /zh/column/accumulating/Year/2023.html
-  "v-928c4332": () => import(/* webpackChunkName: "v-928c4332" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/accumulating/Year/2023.html.js").then(({ data }) => data),
-  // path: /zh/column/accumulating/Year/2024.html
-  "v-8f2291f4": () => import(/* webpackChunkName: "v-8f2291f4" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/accumulating/Year/2024.html.js").then(({ data }) => data),
-  // path: /zh/column/skill-sharing/programming/
-  "v-561a34f6": () => import(/* webpackChunkName: "v-561a34f6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/skill-sharing/programming/index.html.js").then(({ data }) => data),
-  // path: /zh/column/skill-sharing/programming/article-writing.html
-  "v-6cc126ea": () => import(/* webpackChunkName: "v-6cc126ea" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/skill-sharing/programming/article-writing.html.js").then(({ data }) => data),
-  // path: /zh/column/skill-sharing/programming/webpage-making.html
-  "v-342da8ee": () => import(/* webpackChunkName: "v-342da8ee" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/skill-sharing/programming/webpage-making.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/experience-of-activity/business-competion/administer-case-competitons.html
-  "v-34880c1e": () => import(/* webpackChunkName: "v-34880c1e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/experience-of-activity/business-competion/administer-case-competitons.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/experience-of-activity/business-competion/rural-revitalization-competiton.html
-  "v-6797abad": () => import(/* webpackChunkName: "v-6797abad" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/experience-of-activity/business-competion/rural-revitalization-competiton.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/experience-of-activity/class-presentation/1.html
-  "v-1334bba1": () => import(/* webpackChunkName: "v-1334bba1" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/experience-of-activity/class-presentation/1.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/experience-of-activity/class-presentation/2.html
-  "v-14e99440": () => import(/* webpackChunkName: "v-14e99440" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/experience-of-activity/class-presentation/2.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/experience-of-activity/class-presentation/3.html
-  "v-169e6cdf": () => import(/* webpackChunkName: "v-169e6cdf" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/experience-of-activity/class-presentation/3.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/experience-of-activity/class-presentation/4.html
-  "v-1853457e": () => import(/* webpackChunkName: "v-1853457e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/experience-of-activity/class-presentation/4.html.js").then(({ data }) => data),
-  // path: /zh/column/accumulating/Day/2023.9/2023.9.1.html
-  "v-728464b9": () => import(/* webpackChunkName: "v-728464b9" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/accumulating/Day/2023.9/2023.9.1.html.js").then(({ data }) => data),
-  // path: /zh/column/accumulating/Day/2023.8/2023.8.24.html
-  "v-b7c2f0b4": () => import(/* webpackChunkName: "v-b7c2f0b4" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/accumulating/Day/2023.8/2023.8.24.html.js").then(({ data }) => data),
-  // path: /zh/column/accumulating/Day/2023.8/2023.8.25.html
-  "v-b4593f76": () => import(/* webpackChunkName: "v-b4593f76" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/accumulating/Day/2023.8/2023.8.25.html.js").then(({ data }) => data),
-  // path: /zh/column/skill-sharing/programming/python/Final-Spirit(basic).html
-  "v-725d0d4a": () => import(/* webpackChunkName: "v-725d0d4a" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/skill-sharing/programming/python/Final-Spirit(basic).html.js").then(({ data }) => data),
+  // path: /
+  "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /column/about-me/intro.html
+  "v-1b7cdbf8": () => import(/* webpackChunkName: "v-1b7cdbf8" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/intro.html.js").then(({ data }) => data),
+  // path: /column/accumulating/
+  "v-2f6627f0": () => import(/* webpackChunkName: "v-2f6627f0" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/index.html.js").then(({ data }) => data),
+  // path: /column/about-me/experience-of-activity/cet-6.html
+  "v-0c71b814": () => import(/* webpackChunkName: "v-0c71b814" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/experience-of-activity/cet-6.html.js").then(({ data }) => data),
+  // path: /column/about-me/experience-of-activity/debate-competition.html
+  "v-ee3fcc80": () => import(/* webpackChunkName: "v-ee3fcc80" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/experience-of-activity/debate-competition.html.js").then(({ data }) => data),
+  // path: /column/about-me/experience-of-activity/memorial-hall-explanation.html
+  "v-ed73ffce": () => import(/* webpackChunkName: "v-ed73ffce" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/experience-of-activity/memorial-hall-explanation.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Month/2023.8.html
+  "v-0dd7bc51": () => import(/* webpackChunkName: "v-0dd7bc51" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Month/2023.8.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Year/2023.html
+  "v-80f17010": () => import(/* webpackChunkName: "v-80f17010" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Year/2023.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Year/2024.html
+  "v-7d87bed2": () => import(/* webpackChunkName: "v-7d87bed2" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Year/2024.html.js").then(({ data }) => data),
+  // path: /column/about-me/experience-of-activity/business-competion/administer-case-competitons.html
+  "v-24137c82": () => import(/* webpackChunkName: "v-24137c82" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/experience-of-activity/business-competion/administer-case-competitons.html.js").then(({ data }) => data),
+  // path: /column/about-me/experience-of-activity/business-competion/rural-revitalization-competiton.html
+  "v-5b4d0484": () => import(/* webpackChunkName: "v-5b4d0484" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/experience-of-activity/business-competion/rural-revitalization-competiton.html.js").then(({ data }) => data),
+  // path: /column/about-me/experience-of-activity/class-presentation/1.html
+  "v-6d845d1c": () => import(/* webpackChunkName: "v-6d845d1c" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/experience-of-activity/class-presentation/1.html.js").then(({ data }) => data),
+  // path: /column/about-me/experience-of-activity/class-presentation/2.html
+  "v-6a1aabde": () => import(/* webpackChunkName: "v-6a1aabde" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/experience-of-activity/class-presentation/2.html.js").then(({ data }) => data),
+  // path: /column/about-me/experience-of-activity/class-presentation/3.html
+  "v-66b0faa0": () => import(/* webpackChunkName: "v-66b0faa0" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/experience-of-activity/class-presentation/3.html.js").then(({ data }) => data),
+  // path: /column/about-me/experience-of-activity/class-presentation/4.html
+  "v-63474962": () => import(/* webpackChunkName: "v-63474962" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/experience-of-activity/class-presentation/4.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Day/2023.8/2023.8.24.html
+  "v-41a42975": () => import(/* webpackChunkName: "v-41a42975" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/2023.8/2023.8.24.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Day/2023.8/2023.8.25.html
+  "v-43590214": () => import(/* webpackChunkName: "v-43590214" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/2023.8/2023.8.25.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Day/2023.9/2023.9.1.html
+  "v-7c2865ec": () => import(/* webpackChunkName: "v-7c2865ec" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/2023.9/2023.9.1.html.js").then(({ data }) => data),
+  // path: /column/skill-sharing/programming/
+  "v-4e20d545": () => import(/* webpackChunkName: "v-4e20d545" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/skill-sharing/programming/index.html.js").then(({ data }) => data),
+  // path: /column/skill-sharing/programming/article-writing.html
+  "v-bb28ec8e": () => import(/* webpackChunkName: "v-bb28ec8e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/skill-sharing/programming/article-writing.html.js").then(({ data }) => data),
+  // path: /column/skill-sharing/programming/webpage-making.html
+  "v-39579f82": () => import(/* webpackChunkName: "v-39579f82" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/skill-sharing/programming/webpage-making.html.js").then(({ data }) => data),
+  // path: /column/skill-sharing/programming/python/Final-Spirit(basic).html
+  "v-7cda8f2c": () => import(/* webpackChunkName: "v-7cda8f2c" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/skill-sharing/programming/python/Final-Spirit(basic).html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
-  // path: /en/
-  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/
-  "v-10c31906": () => import(/* webpackChunkName: "v-10c31906" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/index.html.js").then(({ data }) => data),
-  // path: /zh/column/
-  "v-7c53b51e": () => import(/* webpackChunkName: "v-7c53b51e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/index.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/experience-of-activity/
-  "v-71eb4647": () => import(/* webpackChunkName: "v-71eb4647" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/experience-of-activity/index.html.js").then(({ data }) => data),
-  // path: /zh/column/accumulating/Month/
-  "v-2145032e": () => import(/* webpackChunkName: "v-2145032e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/accumulating/Month/index.html.js").then(({ data }) => data),
-  // path: /zh/column/accumulating/Year/
-  "v-33437e33": () => import(/* webpackChunkName: "v-33437e33" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/accumulating/Year/index.html.js").then(({ data }) => data),
-  // path: /zh/column/skill-sharing/
-  "v-45f93a80": () => import(/* webpackChunkName: "v-45f93a80" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/skill-sharing/index.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/experience-of-activity/business-competion/
-  "v-46059eaa": () => import(/* webpackChunkName: "v-46059eaa" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/experience-of-activity/business-competion/index.html.js").then(({ data }) => data),
-  // path: /zh/column/about-me/experience-of-activity/class-presentation/
-  "v-a92b09ce": () => import(/* webpackChunkName: "v-a92b09ce" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/about-me/experience-of-activity/class-presentation/index.html.js").then(({ data }) => data),
-  // path: /zh/column/accumulating/Day/2023.9/
-  "v-1bdc5e5a": () => import(/* webpackChunkName: "v-1bdc5e5a" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/accumulating/Day/2023.9/index.html.js").then(({ data }) => data),
-  // path: /zh/column/accumulating/Day/
-  "v-a1edcd5c": () => import(/* webpackChunkName: "v-a1edcd5c" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/accumulating/Day/index.html.js").then(({ data }) => data),
-  // path: /zh/column/accumulating/Day/2023.8/
-  "v-1bdc5e98": () => import(/* webpackChunkName: "v-1bdc5e98" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/accumulating/Day/2023.8/index.html.js").then(({ data }) => data),
-  // path: /zh/column/skill-sharing/programming/python/
-  "v-01ec551d": () => import(/* webpackChunkName: "v-01ec551d" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/column/skill-sharing/programming/python/index.html.js").then(({ data }) => data),
+  // path: /column/about-me/
+  "v-75b774d7": () => import(/* webpackChunkName: "v-75b774d7" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/index.html.js").then(({ data }) => data),
+  // path: /column/
+  "v-babdeb00": () => import(/* webpackChunkName: "v-babdeb00" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/index.html.js").then(({ data }) => data),
+  // path: /column/about-me/experience-of-activity/
+  "v-05862f56": () => import(/* webpackChunkName: "v-05862f56" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/experience-of-activity/index.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Month/
+  "v-810ce482": () => import(/* webpackChunkName: "v-810ce482" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Month/index.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Year/
+  "v-a80a44fc": () => import(/* webpackChunkName: "v-a80a44fc" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Year/index.html.js").then(({ data }) => data),
+  // path: /column/about-me/experience-of-activity/business-competion/
+  "v-3dbb373c": () => import(/* webpackChunkName: "v-3dbb373c" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/experience-of-activity/business-competion/index.html.js").then(({ data }) => data),
+  // path: /column/about-me/experience-of-activity/class-presentation/
+  "v-0c2881aa": () => import(/* webpackChunkName: "v-0c2881aa" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/about-me/experience-of-activity/class-presentation/index.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Day/2023.8/
+  "v-eedb8e7a": () => import(/* webpackChunkName: "v-eedb8e7a" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/2023.8/index.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Day/
+  "v-3f511423": () => import(/* webpackChunkName: "v-3f511423" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/index.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Day/2023.9/
+  "v-eedb8e3c": () => import(/* webpackChunkName: "v-eedb8e3c" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/2023.9/index.html.js").then(({ data }) => data),
+  // path: /column/skill-sharing/
+  "v-f1aacd62": () => import(/* webpackChunkName: "v-f1aacd62" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/skill-sharing/index.html.js").then(({ data }) => data),
+  // path: /column/skill-sharing/programming/python/
+  "v-3ca2e424": () => import(/* webpackChunkName: "v-3ca2e424" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/skill-sharing/programming/python/index.html.js").then(({ data }) => data),
   // path: /category/
   "v-5bc93818": () => import(/* webpackChunkName: "v-5bc93818" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/category/index.html.js").then(({ data }) => data),
   // path: /tag/
@@ -83,22 +79,20 @@ export const pagesData = {
   "v-154dc4c4": () => import(/* webpackChunkName: "v-154dc4c4" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/star/index.html.js").then(({ data }) => data),
   // path: /timeline/
   "v-01560935": () => import(/* webpackChunkName: "v-01560935" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/timeline/index.html.js").then(({ data }) => data),
-  // path: /zh/category/
-  "v-fbb94a6e": () => import(/* webpackChunkName: "v-fbb94a6e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/category/index.html.js").then(({ data }) => data),
-  // path: /zh/tag/
-  "v-540234fd": () => import(/* webpackChunkName: "v-540234fd" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/tag/index.html.js").then(({ data }) => data),
+  // path: /category/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C/
+  "v-d2b371ca": () => import(/* webpackChunkName: "v-d2b371ca" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/category/网站制作/index.html.js").then(({ data }) => data),
+  // path: /tag/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C/
+  "v-5b05c6a5": () => import(/* webpackChunkName: "v-5b05c6a5" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/tag/网站制作/index.html.js").then(({ data }) => data),
   // path: /zh/article/
   "v-54d7ff21": () => import(/* webpackChunkName: "v-54d7ff21" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/article/index.html.js").then(({ data }) => data),
   // path: /zh/star/
   "v-2c3ee7f5": () => import(/* webpackChunkName: "v-2c3ee7f5" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/star/index.html.js").then(({ data }) => data),
   // path: /zh/timeline/
   "v-27b02be6": () => import(/* webpackChunkName: "v-27b02be6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/timeline/index.html.js").then(({ data }) => data),
-  // path: /zh/category/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C/
-  "v-f910a1ec": () => import(/* webpackChunkName: "v-f910a1ec" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/category/网站制作/index.html.js").then(({ data }) => data),
-  // path: /zh/tag/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C/
-  "v-4280e556": () => import(/* webpackChunkName: "v-4280e556" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/tag/网站制作/index.html.js").then(({ data }) => data),
-  // path: /zh/category/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C%E7%88%B1%E4%B8%8A/
-  "v-134f6389": () => import(/* webpackChunkName: "v-134f6389" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/category/网站制作爱上/index.html.js").then(({ data }) => data),
-  // path: /
-  "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /category/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C%E7%88%B1%E4%B8%8A/
+  "v-6d4f0d4c": () => import(/* webpackChunkName: "v-6d4f0d4c" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/category/网站制作爱上/index.html.js").then(({ data }) => data),
+  // path: /zh/tag/
+  "v-540234fd": () => import(/* webpackChunkName: "v-540234fd" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/tag/index.html.js").then(({ data }) => data),
+  // path: /zh/category/
+  "v-fbb94a6e": () => import(/* webpackChunkName: "v-fbb94a6e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/category/index.html.js").then(({ data }) => data),
 }
