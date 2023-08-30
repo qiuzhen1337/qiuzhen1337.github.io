@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as o}from"./app-c6c30e31.js";const r={};function a(c,i){return e(),o("div")}const l=t(r,[["render",a],["__file","rural-revitalization-competiton.html.vue"]]);export{l as default};
