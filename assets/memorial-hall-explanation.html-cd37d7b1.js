@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as a}from"./app-98c8eb4a.js";const t={};function l(r,n){return o(),a("div")}const _=e(t,[["render",l],["__file","memorial-hall-explanation.html.vue"]]);export{_ as default};
