@@ -1,49 +1,49 @@
 ---
 home: true
 layout: BlogHome
-icon: home
-title: qz‘s fancy House
+icon: homefill
+title: qz 的奇思妙想屋
 heroImage: /logo.png
 bgImage: /background.png
-heroText: qz's fancy House
-tagline: Keep your promise,walk the talk.
+heroText: qz 的奇思妙想屋
 heroFullScreen: true
+tagline: Keep your promise,walk the talk.
 projects:
   - icon: jiqiren
-    name: Programming skills sharing
-    desc: from 0 to ∞
-    link: https://your.project.link
+    name: 编程技能分享
+    desc: 从0到∞
+    link: https://你的项目链接
 
   - icon: jurassic_pc
-    name: Other computer skills sharing
-    desc: keep up with the times🫡
-    link: https://link.address
+    name: 其他电脑技能分享
+    desc: 紧跟时代步伐🫡
+    link: https://链接地址
 
   - icon: zizhinengli
-    name: Other skills sharing
-    desc: devotion & capacity
-    link: https://link.to.your.book
+    name: 其他技能分享
+    desc: 热爱&能力
+    link: https://你的书籍链接
 
   - icon: gerenjianjie
-    name: Personal Introduction
-    desc: Hello,I'm qiuzhen
-    link: https://link.to.your.article
+    name: 个人介绍
+    desc: 你好，我是仇真
+    link: https://你的文章链接
 
   - icon: -sportgirl
-    name: Personal Experience
-    desc: down to earth
-    link: https://link.to.your.friend
+    name: 个人经历
+    desc: 脚踏实地
+    link: https://你的伙伴链接
 
   - icon: yejing
-    name: Some Whismy
-    desc: look up at the starry sky
-    link: https://link.to.your.friend
+    name: 一些奇思妙想
+    desc: 仰望星空
+    link: https://你的自定义链接
 
   - icon: write
-    name: Read Notes
-    desc: Don't read books.
-    link: https://link.to.your.friend
+    name: 阅读笔记
+    desc: 不动笔墨不看书
+    link: https://你的自定义链接
 
-footer: Walk the talk.
+footer: walk the talk.
 ---
 

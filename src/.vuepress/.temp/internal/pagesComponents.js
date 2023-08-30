@@ -1,12 +1,8 @@
 import { defineAsyncComponent } from 'vue'
 
 export const pagesComponents = {
-  // path: /
-  "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/index.html.vue")),
   // path: /en/intro.html
   "v-5aa3d8ba": defineAsyncComponent(() => import(/* webpackChunkName: "v-5aa3d8ba" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/en/intro.html.vue")),
-  // path: /zh/
-  "v-2d0ad528": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0ad528" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/index.html.vue")),
   // path: /en/programming/
   "v-6fc41603": defineAsyncComponent(() => import(/* webpackChunkName: "v-6fc41603" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/en/programming/index.html.vue")),
   // path: /zh/column/about-me/intro.html
@@ -105,4 +101,6 @@ export const pagesComponents = {
   "v-4280e556": defineAsyncComponent(() => import(/* webpackChunkName: "v-4280e556" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/tag/网站制作/index.html.vue")),
   // path: /zh/category/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C%E7%88%B1%E4%B8%8A/
   "v-134f6389": defineAsyncComponent(() => import(/* webpackChunkName: "v-134f6389" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/category/网站制作爱上/index.html.vue")),
+  // path: /
+  "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/index.html.vue")),
 }

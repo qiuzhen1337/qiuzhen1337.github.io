@@ -1,10 +1,6 @@
 export const pagesData = {
-  // path: /
-  "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /en/intro.html
   "v-5aa3d8ba": () => import(/* webpackChunkName: "v-5aa3d8ba" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/en/intro.html.js").then(({ data }) => data),
-  // path: /zh/
-  "v-2d0ad528": () => import(/* webpackChunkName: "v-2d0ad528" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/index.html.js").then(({ data }) => data),
   // path: /en/programming/
   "v-6fc41603": () => import(/* webpackChunkName: "v-6fc41603" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/en/programming/index.html.js").then(({ data }) => data),
   // path: /zh/column/about-me/intro.html
@@ -103,4 +99,6 @@ export const pagesData = {
   "v-4280e556": () => import(/* webpackChunkName: "v-4280e556" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/tag/网站制作/index.html.js").then(({ data }) => data),
   // path: /zh/category/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C%E7%88%B1%E4%B8%8A/
   "v-134f6389": () => import(/* webpackChunkName: "v-134f6389" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/zh/category/网站制作爱上/index.html.js").then(({ data }) => data),
+  // path: /
+  "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
 }

@@ -1,7 +1,5 @@
 export const pagesRoutes = [
-  ["v-8daa1a0e","/",{"y":"h","t":"qz‘s fancy House","i":"home"},["/README.md"]],
   ["v-5aa3d8ba","/en/intro.html",{"d":1691428835000,"l":"August 8, 2023","e":"<h2> Contact Information</h2>\n<ul>\n<li>\n<p>+86 150-5744-1337</p>\n</li>\n<li>\n<p><a href=\"mailto:qiuzhenqzzz@gmail.com\">qiuzhenqzzz@gmail.com</a></p>\n</li>\n<li>\n<p>Location : Ningbo</p>\n</li>\n</ul>\n<h2> educational background</h2>\n<p>Jiaxing University ,  Bachelor , Marketing ( graduate2026) : 2022/08 to present</p>","y":"a","t":"Personal Introduction","i":"profile"},[":md"]],
-  ["v-2d0ad528","/zh/",{"y":"h","t":"qz 的奇思妙想屋","i":"homefill"},["/zh/README.md"]],
   ["v-6fc41603","/en/programming/",{"y":"h","t":"Column-progamming","i":"zhongduan"},["/en/programming/README.md"]],
   ["v-540d0773","/zh/column/about-me/intro.html",{"d":1691220528000,"l":"2023年8月5日","e":"<h2> 联系方式</h2>\n<ul>\n<li>+86 150-5744-1337</li>\n<li><a href=\"mailto:qiuzhenqzzz@gmail.com\">qiuzhenqzzz@gmail.com</a></li>\n<li>坐标：宁波</li>\n</ul>\n<h2> 教育背景</h2>\n<p>嘉兴学院本科，市场营销（2026年毕业）：2022/08至今</p>\n<ul>\n<li>综合绩点（GPA）：3.8/4.0，专业排名第一，校级一等奖学金</li>\n</ul>\n<h2> 实习经历</h2>\n<p>欧莱雅（ 远程）：市场助理  2023/04-2023/05</p>","y":"a","t":"个人介绍","i":"profile"},[":md"]],
   ["v-56961c9f","/zh/column/accumulating/",{"a":"仇真","d":1692868813000,"l":"2023年8月24日","c":["网站制作"],"g":["网站制作"],"u":false,"o":true,"y":"a","t":"制作网页的笔记整理","i":"bijiben1"},["/zh/column/accumulating/README.md"]],
@@ -51,4 +49,5 @@ export const pagesRoutes = [
   ["v-f910a1ec","/zh/category/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C/",{"y":"p","t":"网站制作 分类","I":0},["/zh/category/网站制作/"]],
   ["v-4280e556","/zh/tag/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C/",{"y":"p","t":"标签: 网站制作","I":0},["/zh/tag/网站制作/"]],
   ["v-134f6389","/zh/category/%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C%E7%88%B1%E4%B8%8A/",{"y":"p","t":"网站制作爱上 分类","I":0},["/zh/category/网站制作爱上/"]],
+  ["v-8daa1a0e","/",{"y":"h","t":"qz 的奇思妙想屋","i":"homefill"},["/README.md"]],
 ]
