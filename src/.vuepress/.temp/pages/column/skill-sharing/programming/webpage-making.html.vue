@@ -120,6 +120,7 @@
 <p>剪切</p>
 <p>Command + X</p>
 <figure><img src="@source/column/skill-sharing/programming/webpage-making.assets/image-20230824083954138.png" alt="image-20230824083954138" tabindex="0" loading="lazy"><figcaption>image-20230824083954138</figcaption></figure>
+<figure><img src="@source/column/skill-sharing/programming/webpage-making.assets/image-20230831080915456.png" alt="image-20230831080915456" tabindex="0" loading="lazy"><figcaption>image-20230831080915456</figcaption></figure>
 </div></template>
 
 
