@@ -108,10 +108,12 @@
 <figure><img src="@source/column/skill-sharing/programming/webpage-making.assets/image-20230818073922771.png" alt="image-20230818073922771" tabindex="0" loading="lazy"><figcaption>image-20230818073922771</figcaption></figure>
 <h2 id="遇到重复文章怎么办" tabindex="-1"><a class="header-anchor" href="#遇到重复文章怎么办" aria-hidden="true">#</a> 遇到重复文章怎么办</h2>
 <figure><img src="@source/column/skill-sharing/programming/webpage-making.assets/image-20230818080215545.png" alt="image-20230818080215545" tabindex="0" loading="lazy"><figcaption>image-20230818080215545</figcaption></figure>
+<h2 id="各部分主页制作" tabindex="-1"><a class="header-anchor" href="#各部分主页制作" aria-hidden="true">#</a> 各部分主页制作</h2>
 <figure><img src="@source/column/skill-sharing/programming/webpage-making.assets/image-20230823080927249.png" alt="image-20230823080927249" tabindex="0" loading="lazy"><figcaption>image-20230823080927249</figcaption></figure>
 <p>【】+（）</p>
 <figure><img src="@source/column/skill-sharing/programming/webpage-making.assets/image-20230823082051569.png" alt="image-20230823082051569" tabindex="0" loading="lazy"><figcaption>image-20230823082051569</figcaption></figure>
 <figure><img src="@source/column/skill-sharing/programming/webpage-making.assets/image-20230823085459751.png" alt="image-20230823085459751" tabindex="0" loading="lazy"><figcaption>image-20230823085459751</figcaption></figure>
+<h2 id="如何制作卡片" tabindex="-1"><a class="header-anchor" href="#如何制作卡片" aria-hidden="true">#</a> 如何制作卡片</h2>
 <p><a href="https://theme-hope.vuejs.press/zh/guide/markdown/card.html" target="_blank" rel="noopener noreferrer">https://theme-hope.vuejs.press/zh/guide/markdown/card.html<ExternalLinkIcon/></a></p>
 <figure><img src="@source/column/skill-sharing/programming/webpage-making.assets/image-20230823085917036.png" alt="image-20230823085917036" tabindex="0" loading="lazy"><figcaption>image-20230823085917036</figcaption></figure>
 <h2 id="解密" tabindex="-1"><a class="header-anchor" href="#解密" aria-hidden="true">#</a> 解密</h2>

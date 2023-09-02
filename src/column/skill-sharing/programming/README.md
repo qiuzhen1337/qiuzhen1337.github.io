@@ -8,15 +8,6 @@ heroFullScreen: false
 tagline: 从0到∞
 ---
 
-| 名称     | 链接                                                         |
-| -------- | ------------------------------------------------------------ |
-| 网页制作 | [笔记整理](/column/skill-sharing/programming/webpage-making.md) |
-|          |                                                              |
-|          |                                                              |
-|          |                                                              |
-|          |                                                              |
-|          |                                                              |
-
 ```card
 title: 网页制作
 desc: 笔记整理
@@ -26,10 +17,18 @@ color: rgba(255,192,203,1.000)
 ```
 
 ```card
-title: python
-desc: 基础
+title: 侧边栏编写
+desc: 重难点学习
 logo: /logo.png
-link: /column/skill-sharing/programming/webpage-making.md
-color: rgba(255,192,203,1.000)
+link: /column/skill-sharing/programming/sidebar-writing.md
+color: rgba(255,248,220,1.000)
+```
+
+```card
+title: 文章编写
+desc: 重点学习
+logo: /logo.png
+link: /column/skill-sharing/programming/article-writing.md
+color: rgba(176,196,222,1.000)
 ```
 

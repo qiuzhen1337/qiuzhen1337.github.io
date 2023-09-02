@@ -120,6 +120,71 @@ export default hopeTheme({
       dark: "auto",
     },
 
+    components: {
+      componentOptions: {
+        share: {
+          // services: ["email", "qq", "weibo", "qrcode"],
+          services: ["email", "qq", "qrcode"],
+        }
+      },
+      components: [
+
+        // "ArtPlayer",
+        "AudioPlayer",
+        // "Badge",
+        "BiliBili",
+        // "FontIcon",
+        // "CodePen",
+        "PDF",
+        "SiteInfo",
+        "StackBlitz",
+        "Share",
+        "VideoPlayer",
+        // "YouTube",
+        // "Replit",
+        // "ArtPlayer",
+      ],
+      // rootComponents: {
+      //   notice: [
+      //     {
+      //       path: "/",
+      //       title: "通知",
+      //       content: "关于编程私教&加密文章",
+      //       // showOnce: true,
+      //       actions: [
+      //         {
+      //           text: "查看",
+      //           link: "/Notice.md",
+      //           type: "primary",
+      //         },
+      //         {
+      //           text: "Why Blog?",
+      //           link: "/aboutblog.md",
+      //           type: "default",
+      //         },
+      //         {
+      //           text: "ChatGPT",
+      //           link: "https://chatgpt.bornforthis.cn/",
+      //           type: "default",
+      //         },
+      //         // {
+      //         //   text: "QQ客服",
+      //         //   link: "http://wpa.qq.com/msgrd?v=3&uin=1432803776&site=qq&menu=yes",
+      //         //   type: "default",
+      //         // },
+      //         // {
+      //         //   text: "Now",
+      //         //   link: "/Now.md",
+      //         //   type: "default",
+      //         // },
+      //       ],
+      //     },
+      //   ],
+
+
+      // }
+    },
+
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,

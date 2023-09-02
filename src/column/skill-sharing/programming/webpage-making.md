@@ -264,7 +264,7 @@ command按住 + 点击链接
 
 ![image-20230818080215545](./webpage-making.assets/image-20230818080215545.png)
 
-
+## 各部分主页制作
 
 ![image-20230823080927249](./webpage-making.assets/image-20230823080927249.png)
 
@@ -276,7 +276,7 @@ command按住 + 点击链接
 
 ![image-20230823085459751](./webpage-making.assets/image-20230823085459751.png)
 
-
+## 如何制作卡片
 
 https://theme-hope.vuejs.press/zh/guide/markdown/card.html
 
