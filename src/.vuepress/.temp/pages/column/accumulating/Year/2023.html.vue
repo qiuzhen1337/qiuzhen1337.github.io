@@ -12,10 +12,20 @@
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" id="task-item-8" disabled="disabled"><label class="task-list-item-label" for="task-item-8"> 在最后一星期找到想要的状态！！！为下次开好头😊</label></li>
 </ul>
 <h4 id="复盘" tabindex="-1"><a class="header-anchor" href="#复盘" aria-hidden="true">#</a> 复盘</h4>
-<p>1.学的不够好也玩的不够好，但是已经比上次的无所事事有所进步，值得开心，不焦虑过往，因为没有用还会内耗自我，希望在最后一星期找找感觉，为下次开个好头</p>
-<p>2.可以尝试白天少思考，多做事，晚上思考复盘</p>
-<p>3.对家人不够耐心，多与家人相处</p>
-<p>4.必须戒掉小红书和知乎，删除软件，想打开了就倒数五秒，去做其他的事，什么都能做成</p>
+<ul>
+<li>
+<p>学的不够好也玩的不够好，但是已经比上次的无所事事有所进步，值得开心，不焦虑过往，因为没有用还会内耗自我，希望在最后一星期找找感觉，为下次开个好头</p>
+</li>
+<li>
+<p>可以尝试白天少思考，多做事，晚上思考复盘</p>
+</li>
+<li>
+<p>对家人不够耐心，多与家人相处</p>
+</li>
+<li>
+<p>必须戒掉小红书和知乎，删除软件，想打开了就倒数五秒，去做其他的事，什么都能做成</p>
+</li>
+</ul>
 <h2 id="大二上2023-2024" tabindex="-1"><a class="header-anchor" href="#大二上2023-2024" aria-hidden="true">#</a> 大二上2023～2024</h2>
 <h3 id="学习篇" tabindex="-1"><a class="header-anchor" href="#学习篇" aria-hidden="true">#</a> 学习篇</h3>
 <ul class="task-list-container">
