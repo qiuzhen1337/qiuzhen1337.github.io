@@ -39,8 +39,8 @@ export const pagesComponents = {
   "v-78beb4ae": defineAsyncComponent(() => import(/* webpackChunkName: "v-78beb4ae" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/2023.9/2023.9.2.html.vue")),
   // path: /column/accumulating/Day/2023.9/2023.9.3.html
   "v-75550370": defineAsyncComponent(() => import(/* webpackChunkName: "v-75550370" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/2023.9/2023.9.3.html.vue")),
-  // path: /column/skill-sharing/programming/python/Final-Spirit(basic).html
-  "v-7cda8f2c": defineAsyncComponent(() => import(/* webpackChunkName: "v-7cda8f2c" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/skill-sharing/programming/python/Final-Spirit(basic).html.vue")),
+  // path: /column/skill-sharing/programming/python/vairable.html
+  "v-d6495c06": defineAsyncComponent(() => import(/* webpackChunkName: "v-d6495c06" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/skill-sharing/programming/python/vairable.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/404.html.vue")),
   // path: /column/about-me/
@@ -95,4 +95,8 @@ export const pagesComponents = {
   "v-5440dca6": defineAsyncComponent(() => import(/* webpackChunkName: "v-5440dca6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/tag/日计划与复盘/index.html.vue")),
   // path: /category/%E6%97%A5%E8%AE%A1%E5%88%92%E4%B8%8E%E5%A4%8D%E7%9B%98/
   "v-66e920a3": defineAsyncComponent(() => import(/* webpackChunkName: "v-66e920a3" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/category/日计划与复盘/index.html.vue")),
+  // path: /tag/python%E5%AD%A6%E4%B9%A0/
+  "v-ba8a9840": defineAsyncComponent(() => import(/* webpackChunkName: "v-ba8a9840" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/tag/python学习/index.html.vue")),
+  // path: /category/python%E5%AD%A6%E4%B9%A0/
+  "v-526fb556": defineAsyncComponent(() => import(/* webpackChunkName: "v-526fb556" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/category/python学习/index.html.vue")),
 }

@@ -83,11 +83,19 @@ export const zhSidebar = sidebar({
       ]
     },
 
+    
 
 
+  ],
 
+  "/column/skill-sharing/programming/python" : [
+    "vairable",
   ]
 });
+
+
+
+
 
 
 

@@ -32,3 +32,11 @@ link: /column/skill-sharing/programming/article-writing.md
 color: rgba(176,196,222,1.000)
 ```
 
+```card
+title: 初识变量
+desc: python
+logo: /logo.png
+link: /column/skill-sharing/programming/python/vairable.md
+color: rgba(230,230,250,1.000)
+```
+

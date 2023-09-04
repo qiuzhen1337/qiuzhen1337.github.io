@@ -37,8 +37,8 @@ export const pagesData = {
   "v-78beb4ae": () => import(/* webpackChunkName: "v-78beb4ae" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/2023.9/2023.9.2.html.js").then(({ data }) => data),
   // path: /column/accumulating/Day/2023.9/2023.9.3.html
   "v-75550370": () => import(/* webpackChunkName: "v-75550370" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/2023.9/2023.9.3.html.js").then(({ data }) => data),
-  // path: /column/skill-sharing/programming/python/Final-Spirit(basic).html
-  "v-7cda8f2c": () => import(/* webpackChunkName: "v-7cda8f2c" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/skill-sharing/programming/python/Final-Spirit(basic).html.js").then(({ data }) => data),
+  // path: /column/skill-sharing/programming/python/vairable.html
+  "v-d6495c06": () => import(/* webpackChunkName: "v-d6495c06" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/skill-sharing/programming/python/vairable.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /column/about-me/
@@ -93,4 +93,8 @@ export const pagesData = {
   "v-5440dca6": () => import(/* webpackChunkName: "v-5440dca6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/tag/日计划与复盘/index.html.js").then(({ data }) => data),
   // path: /category/%E6%97%A5%E8%AE%A1%E5%88%92%E4%B8%8E%E5%A4%8D%E7%9B%98/
   "v-66e920a3": () => import(/* webpackChunkName: "v-66e920a3" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/category/日计划与复盘/index.html.js").then(({ data }) => data),
+  // path: /tag/python%E5%AD%A6%E4%B9%A0/
+  "v-ba8a9840": () => import(/* webpackChunkName: "v-ba8a9840" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/tag/python学习/index.html.js").then(({ data }) => data),
+  // path: /category/python%E5%AD%A6%E4%B9%A0/
+  "v-526fb556": () => import(/* webpackChunkName: "v-526fb556" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/category/python学习/index.html.js").then(({ data }) => data),
 }

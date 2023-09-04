@@ -20,6 +20,7 @@
 <figure><img src="@source/column/skill-sharing/programming/article-writing.assets/image-20230831091235838.png" alt="image-20230831091235838" tabindex="0" loading="lazy"><figcaption>image-20230831091235838</figcaption></figure>
 <h2 id="_1-5自定义-一个大组里面套多个小组" tabindex="-1"><a class="header-anchor" href="#_1-5自定义-一个大组里面套多个小组" aria-hidden="true">#</a> 1.5自定义 一个大组里面套多个小组</h2>
 <figure><img src="@source/column/skill-sharing/programming/article-writing.assets/image-20230831091649929.png" alt="image-20230831091649929" tabindex="0" loading="lazy"><figcaption>image-20230831091649929</figcaption></figure>
+<figure><img src="@source/column/skill-sharing/programming/sidebar-writing.assets/image-20230904074200568.png" alt="image-20230904074200568" tabindex="0" loading="lazy"><figcaption>image-20230904074200568</figcaption></figure>
 </div></template>
 
 
