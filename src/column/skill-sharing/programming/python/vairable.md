@@ -1,4 +1,5 @@
 ---
+
 title: 初识变量
 date: 2023-09-04 07:29:24
 author: 仇真
@@ -72,6 +73,132 @@ backToTop: true
 注意：“=”为赋值运算符，并不是相等，而是赋值。举例：x=3
 
 程序的运行逻辑：先从上到下，再从右到左，最后才是赋值（先一行行运算，再运算右边，最后赋值给左边）
+
+:::code-tabs
+
+@tab demo1
+
+```python
+x = 1
+x = x + 10
+print(x)  # print 打印输出
+# 井号是注释作用：我们看得见，计算机看不算，属于代码的注解、说明
+```
+
+@tab demo2
+
+```python
+name1 = "lilei"
+name2 = name1 # 变量值的传递
+print(name2)
+# 注释快捷键：Command + /
+
+name1 = "lilei"
+name1 = "qiuzhen" # 变量值的覆盖
+print(name1)
+
+# ---output---
+lilei
+qiuzhen
+```
+
+:::
+
+## 3. 探究print
+
+### 3.1 同时输出多个数据
+
+```python
+a = 1
+b = 1
+c = 1
+print(a, b, c) # print 同时输出多个变量，默认以空格间隔
+
+# ---output---
+1,2,3
+```
+
+默认以空格间隔，可以使用sep修改。
+
+### 3.2 sep 修改多个变量同时输出的间隔
+
+:::code-tabs
+
+@tab demo1
+
+```python
+print(a, b, c) # print 同时输出多个变量，默认以空格间隔
+print(a, b, c, sep="") # 双引号里是什么就以什么间隔
+
+# ---output---
+1 1 1
+111
+```
+
+@tab demo2
+
+```python
+print(a, b, c, sep="xdsnqlo")
+
+# ---output---
+1xdsnqlo1xdsnqlo1
+```
+
+:::
+
+### 3.3 end 修改 print 输出结尾的方式
+
+::: code-tabs
+
+@tab 原本
+
+```python
+a = 1
+b = 1
+c = 1
+print(a)
+print(b)
+print(c) # 默认以换行结尾
+```
+
+@tab1
+
+```python
+a = 1
+b = 1
+c = 1
+print(a, end="\n\n\n") # \n 代表一次换行
+print(b,end="xsolanqxaojsc")
+print(c,end=",")
+
+# ---output---
+1
+
+
+1xsolanqxaojsc1,
+```
+
+:::
+
+### 3.4 end 和 sep 可以同时使用
+
+```python
+a = 1
+b = 1
+c = 1
+print(a, b, c, sep="-", end="love qz")
+print(a, b, c, sep=" ", end="\n")
+print(a, b, c, end="love qz") # end 只会针对此 print
+
+# output
+1-1-1love qz1 1 1
+111
+1 1 1love qz
+```
+
+
+
+
 
 
 
