@@ -1,18 +1,18 @@
 ---
 home: true
 icon: zhongduan
-title: Column-Z-era-essential
+title: Column-progamming
 heroImage: /logo.png
-heroText: Column-Z-era-essential
+heroText: Column-progamming
 heroFullScreen: false
 tagline: 从0到∞
 ---
 
 ```card
-title: Office免费下载
-desc: 是正版，可自动更新
+title: 网页制作
+desc: 笔记整理
 logo: /logo.png
-link: /column/skill-sharing/Z/office-free-registration.md
+link: /column/skill-sharing/programming/webpage-making.md
 color: rgba(255,192,203,1.000)
 ```
 

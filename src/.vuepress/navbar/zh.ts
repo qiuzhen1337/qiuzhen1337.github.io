@@ -13,7 +13,7 @@ export const zhNavbar = navbar([
   icon: "jinengfen",
   children: [
     { text: "编程", icon: "zhongduan", link: "/column/skill-sharing/programming/README.md"},
-    { text: "Z时代必备", icon: "zeta", link: "/column/skill-sharing/Z/README.md"},
+    { text: "Z时代必备", icon: "zeta", link: "/column/skill-sharing/Z/README1.md"},
     { text: "热爱&提升", icon: "aihao", link: "#"},
   ],
 },
