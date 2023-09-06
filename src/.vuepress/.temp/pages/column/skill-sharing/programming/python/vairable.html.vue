@@ -46,7 +46,7 @@ name1 <span class="token operator">=</span> <span class="token string">"lilei"</
 name1 <span class="token operator">=</span> <span class="token string">"qiuzhen"</span> <span class="token comment"># 变量值的覆盖</span>
 <span class="token keyword">print</span><span class="token punctuation">(</span>name1<span class="token punctuation">)</span>
 
-<span class="token comment"># ---output---</span>
+<span class="token comment"># output</span>
 lilei
 qiuzhen
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template>
@@ -58,7 +58,7 @@ b <span class="token operator">=</span> <span class="token number">1</span>
 c <span class="token operator">=</span> <span class="token number">1</span>
 <span class="token keyword">print</span><span class="token punctuation">(</span>a<span class="token punctuation">,</span> b<span class="token punctuation">,</span> c<span class="token punctuation">)</span> <span class="token comment"># print 同时输出多个变量，默认以空格间隔</span>
 
-<span class="token comment"># ---output---</span>
+<span class="token comment"># output</span>
 <span class="token number">1</span><span class="token punctuation">,</span><span class="token number">2</span><span class="token punctuation">,</span><span class="token number">3</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>默认以空格间隔，可以使用sep修改。</p>
 <h3 id="_3-2-sep-修改多个变量同时输出的间隔" tabindex="-1"><a class="header-anchor" href="#_3-2-sep-修改多个变量同时输出的间隔" aria-hidden="true">#</a> 3.2 sep 修改多个变量同时输出的间隔</h3>
@@ -69,14 +69,14 @@ c <span class="token operator">=</span> <span class="token number">1</span>
 <div class="language-python line-numbers-mode" data-ext="py"><pre v-pre class="language-python"><code><span class="token keyword">print</span><span class="token punctuation">(</span>a<span class="token punctuation">,</span> b<span class="token punctuation">,</span> c<span class="token punctuation">)</span> <span class="token comment"># print 同时输出多个变量，默认以空格间隔</span>
 <span class="token keyword">print</span><span class="token punctuation">(</span>a<span class="token punctuation">,</span> b<span class="token punctuation">,</span> c<span class="token punctuation">,</span> sep<span class="token operator">=</span><span class="token string">""</span><span class="token punctuation">)</span> <span class="token comment"># 双引号里是什么就以什么间隔</span>
 
-<span class="token comment"># ---output---</span>
+<span class="token comment"># output</span>
 <span class="token number">1</span> <span class="token number">1</span> <span class="token number">1</span>
 <span class="token number">111</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template>
 <template #tab1="{ value, isActive }">
 <div class="language-python line-numbers-mode" data-ext="py"><pre v-pre class="language-python"><code><span class="token keyword">print</span><span class="token punctuation">(</span>a<span class="token punctuation">,</span> b<span class="token punctuation">,</span> c<span class="token punctuation">,</span> sep<span class="token operator">=</span><span class="token string">"xdsnqlo"</span><span class="token punctuation">)</span>
 
-<span class="token comment"># ---output---</span>
+<span class="token comment"># output</span>
 1xdsnqlo1xdsnqlo1
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template>
 </CodeTabs>
@@ -91,7 +91,12 @@ c <span class="token operator">=</span> <span class="token number">1</span>
 <span class="token keyword">print</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span>
 <span class="token keyword">print</span><span class="token punctuation">(</span>b<span class="token punctuation">)</span>
 <span class="token keyword">print</span><span class="token punctuation">(</span>c<span class="token punctuation">)</span> <span class="token comment"># 默认以换行结尾</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template>
+
+<span class="token comment"># output</span>
+<span class="token number">1</span>
+<span class="token number">1</span>
+<span class="token number">1</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template>
 <template #tab1="{ value, isActive }">
 <div class="language-python line-numbers-mode" data-ext="py"><pre v-pre class="language-python"><code>a <span class="token operator">=</span> <span class="token number">1</span>
 b <span class="token operator">=</span> <span class="token number">1</span>
@@ -100,7 +105,7 @@ c <span class="token operator">=</span> <span class="token number">1</span>
 <span class="token keyword">print</span><span class="token punctuation">(</span>b<span class="token punctuation">,</span>end<span class="token operator">=</span><span class="token string">"xsolanqxaojsc"</span><span class="token punctuation">)</span>
 <span class="token keyword">print</span><span class="token punctuation">(</span>c<span class="token punctuation">,</span>end<span class="token operator">=</span><span class="token string">","</span><span class="token punctuation">)</span>
 
-<span class="token comment"># ---output---</span>
+<span class="token comment"># output</span>
 <span class="token number">1</span>
 
 

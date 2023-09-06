@@ -97,7 +97,7 @@ name1 = "lilei"
 name1 = "qiuzhen" # 变量值的覆盖
 print(name1)
 
-# ---output---
+# output
 lilei
 qiuzhen
 ```
@@ -114,7 +114,7 @@ b = 1
 c = 1
 print(a, b, c) # print 同时输出多个变量，默认以空格间隔
 
-# ---output---
+# output
 1,2,3
 ```
 
@@ -130,7 +130,7 @@ print(a, b, c) # print 同时输出多个变量，默认以空格间隔
 print(a, b, c) # print 同时输出多个变量，默认以空格间隔
 print(a, b, c, sep="") # 双引号里是什么就以什么间隔
 
-# ---output---
+# output
 1 1 1
 111
 ```
@@ -140,7 +140,7 @@ print(a, b, c, sep="") # 双引号里是什么就以什么间隔
 ```python
 print(a, b, c, sep="xdsnqlo")
 
-# ---output---
+# output
 1xdsnqlo1xdsnqlo1
 ```
 
@@ -159,6 +159,11 @@ c = 1
 print(a)
 print(b)
 print(c) # 默认以换行结尾
+
+# output
+1
+1
+1
 ```
 
 @tab1
@@ -171,7 +176,7 @@ print(a, end="\n\n\n") # \n 代表一次换行
 print(b,end="xsolanqxaojsc")
 print(c,end=",")
 
-# ---output---
+# output
 1
 
 
