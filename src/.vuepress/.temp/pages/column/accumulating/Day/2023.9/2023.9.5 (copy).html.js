@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-0b9fd9c6\",\"path\":\"/column/accumulating/Day/2023.9/2023.9.5%20(copy).html\",\"title\":\"每日计划 9.3\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"每日计划 9.3\",\"date\":\"2023-09-05T08:25:35.000Z\",\"author\":\"仇真\",\"isOriginal\":true,\"category\":[\"日计划与复盘\"],\"tag\":[\"日计划与复盘\"],\"icon\":\"zhiwu\",\"sticky\":false,\"star\":false,\"article\":true,\"timeline\":true,\"image\":false,\"navbar\":true,\"sidebarIcon\":true,\"headerDepth\":5,\"comment\":true,\"lastUpdated\":true,\"editLink\":false,\"backToTop\":true,\"description\":\"计划 一份听力 1.5小时 上计算机课并复习上课所学 背讲解稿 2-3小时 学习cma 第六章和第一章一部分 25页 看BBC纪录片并跟读 1-2小时 当天晚上写复盘\"},\"headers\":[{\"level\":2,\"title\":\"计划\",\"slug\":\"计划\",\"link\":\"#计划\",\"children\":[]},{\"level\":2,\"title\":\"复盘\",\"slug\":\"复盘\",\"link\":\"#复盘\",\"children\":[]}],\"readingTime\":{\"minutes\":0.41,\"words\":123},\"filePathRelative\":\"column/accumulating/Day/2023.9/2023.9.5 (copy).md\",\"localizedDate\":\"2023年9月5日\",\"excerpt\":\"<h2> 计划</h2>\\n<ul class=\\\"task-list-container\\\">\\n<li class=\\\"task-list-item\\\"><input type=\\\"checkbox\\\" class=\\\"task-list-item-checkbox\\\" id=\\\"task-item-0\\\" disabled=\\\"disabled\\\"><label class=\\\"task-list-item-label\\\" for=\\\"task-item-0\\\"> 一份听力 1.5小时</label></li>\\n<li class=\\\"task-list-item\\\"><input type=\\\"checkbox\\\" class=\\\"task-list-item-checkbox\\\" id=\\\"task-item-1\\\" disabled=\\\"disabled\\\"><label class=\\\"task-list-item-label\\\" for=\\\"task-item-1\\\"> 上计算机课并复习上课所学</label></li>\\n<li class=\\\"task-list-item\\\"><input type=\\\"checkbox\\\" class=\\\"task-list-item-checkbox\\\" id=\\\"task-item-2\\\" disabled=\\\"disabled\\\"><label class=\\\"task-list-item-label\\\" for=\\\"task-item-2\\\"> 背讲解稿 2-3小时</label></li>\\n<li class=\\\"task-list-item\\\"><input type=\\\"checkbox\\\" class=\\\"task-list-item-checkbox\\\" id=\\\"task-item-3\\\" disabled=\\\"disabled\\\"><label class=\\\"task-list-item-label\\\" for=\\\"task-item-3\\\"> 学习cma 第六章和第一章一部分 25页</label></li>\\n<li class=\\\"task-list-item\\\"><input type=\\\"checkbox\\\" class=\\\"task-list-item-checkbox\\\" id=\\\"task-item-4\\\" disabled=\\\"disabled\\\"><label class=\\\"task-list-item-label\\\" for=\\\"task-item-4\\\"> 看BBC纪录片并跟读 1-2小时</label></li>\\n<li class=\\\"task-list-item\\\"><input type=\\\"checkbox\\\" class=\\\"task-list-item-checkbox\\\" id=\\\"task-item-5\\\" disabled=\\\"disabled\\\"><label class=\\\"task-list-item-label\\\" for=\\\"task-item-5\\\"> 当天晚上写复盘</label></li>\\n</ul>\",\"autoDesc\":true}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

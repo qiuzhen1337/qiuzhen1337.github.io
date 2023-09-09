@@ -9,7 +9,7 @@
 </ul>
 <h2 id="复盘" tabindex="-1"><a class="header-anchor" href="#复盘" aria-hidden="true">#</a> 复盘</h2>
 <ul>
-<li>未完成</li>
+<li></li>
 </ul>
 </div></template>
 
