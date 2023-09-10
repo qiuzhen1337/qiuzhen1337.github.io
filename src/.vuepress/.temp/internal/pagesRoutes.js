@@ -55,4 +55,5 @@ export const pagesRoutes = [
   ["v-66e920a3","/category/%E6%97%A5%E8%AE%A1%E5%88%92%E4%B8%8E%E5%A4%8D%E7%9B%98/",{"y":"p","t":"日计划与复盘 分类","I":0},["/category/日计划与复盘/"]],
   ["v-ba8a9840","/tag/python%E5%AD%A6%E4%B9%A0/",{"y":"p","t":"标签: python学习","I":0},["/tag/python学习/"]],
   ["v-526fb556","/category/python%E5%AD%A6%E4%B9%A0/",{"y":"p","t":"python学习 分类","I":0},["/category/python学习/"]],
+  ["v-7bc0d898","/column/accumulating/Day/2023.9/2023.9.10.html",{"y":"a","t":"每日计划 9.10","i":"zhiwu"},[":md"]],
 ]

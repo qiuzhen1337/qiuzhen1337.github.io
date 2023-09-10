@@ -113,4 +113,6 @@ export const pagesComponents = {
   "v-ba8a9840": defineAsyncComponent(() => import(/* webpackChunkName: "v-ba8a9840" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/tag/python学习/index.html.vue")),
   // path: /category/python%E5%AD%A6%E4%B9%A0/
   "v-526fb556": defineAsyncComponent(() => import(/* webpackChunkName: "v-526fb556" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/category/python学习/index.html.vue")),
+  // path: /column/accumulating/Day/2023.9/2023.9.10.html
+  "v-7bc0d898": defineAsyncComponent(() => import(/* webpackChunkName: "v-7bc0d898" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/2023.9/2023.9.10.html.vue")),
 }

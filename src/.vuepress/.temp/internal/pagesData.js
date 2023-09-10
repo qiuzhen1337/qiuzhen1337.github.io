@@ -111,4 +111,6 @@ export const pagesData = {
   "v-ba8a9840": () => import(/* webpackChunkName: "v-ba8a9840" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/tag/python学习/index.html.js").then(({ data }) => data),
   // path: /category/python%E5%AD%A6%E4%B9%A0/
   "v-526fb556": () => import(/* webpackChunkName: "v-526fb556" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/category/python学习/index.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Day/2023.9/2023.9.10.html
+  "v-7bc0d898": () => import(/* webpackChunkName: "v-7bc0d898" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/2023.9/2023.9.10.html.js").then(({ data }) => data),
 }
