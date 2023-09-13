@@ -124,6 +124,72 @@ c <span class="token operator">=</span> <span class="token number">1</span>
 <span class="token number">1</span><span class="token operator">-</span><span class="token number">1</span><span class="token operator">-</span>1love qz1 <span class="token number">1</span> <span class="token number">1</span>
 <span class="token number">111</span>
 <span class="token number">1</span> <span class="token number">1</span> 1love qz
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></div></template>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3 id="例题-1-交换果汁" tabindex="-1"><a class="header-anchor" href="#例题-1-交换果汁" aria-hidden="true">#</a> 例题 1 交换果汁</h3>
+<p>假如你有两个小孩，哥哥叫：Austin，弟弟叫：Jaden。</p>
+<p>Austin 想喝<strong>果汁</strong>，Jaden 想喝<strong>可乐</strong>。<strong>哥哥和弟弟都有专属的杯子，不喜欢用对方的杯子。</strong></p>
+<p>家中仅剩一杯果汁、一杯可乐，你不小心把哥哥的杯子装了可乐，弟弟的杯子装了果汁。</p>
+<p><strong>问：如何交换哥哥与弟弟杯中的果汁？</strong></p>
+<CodeTabs id="150" :data='[{"id":"通用"},{"id":"python专属"}]'>
+<template #title0="{ value, isActive }">通用</template>
+<template #title1="{ value, isActive }">python专属</template>
+<template #tab0="{ value, isActive }">
+<div class="language-python line-numbers-mode" data-ext="py"><pre v-pre class="language-python"><code>Austin <span class="token operator">=</span> <span class="token string">"Coke"</span>  <span class="token comment"># 该赋值可以理解为倒果汁的过程</span>
+Jaden <span class="token operator">=</span> <span class="token string">"juice"</span>  <span class="token comment"># 该赋值可以理解为倒果汁的过程</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Austin"</span><span class="token punctuation">,</span> Austin<span class="token punctuation">)</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Jaden"</span><span class="token punctuation">,</span> Jaden<span class="token punctuation">)</span>
+cup1 <span class="token operator">=</span> Jaden     <span class="token comment"># 答案</span>
+Jaden <span class="token operator">=</span> Austin   <span class="token comment"># 答案</span>
+Austin <span class="token operator">=</span> cup1    <span class="token comment"># 答案</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Austin"</span><span class="token punctuation">,</span> Austin<span class="token punctuation">)</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Jaden"</span><span class="token punctuation">,</span> Jaden<span class="token punctuation">)</span>
+
+<span class="token comment"># output</span>
+
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template>
+<template #tab1="{ value, isActive }">
+<div class="language-python line-numbers-mode" data-ext="py"><pre v-pre class="language-python"><code>Austin <span class="token operator">=</span> <span class="token string">"Coke"</span>  <span class="token comment"># 该赋值可以理解为倒果汁的过程</span>
+Jaden <span class="token operator">=</span> <span class="token string">"juice"</span>  <span class="token comment"># 该赋值可以理解为倒果汁的过程</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Austin"</span><span class="token punctuation">,</span> Austin<span class="token punctuation">)</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Jaden"</span><span class="token punctuation">,</span> Jaden<span class="token punctuation">)</span>
+Austin<span class="token punctuation">,</span>Jaden <span class="token operator">=</span> Jaden<span class="token punctuation">,</span>Austin  <span class="token comment"># 答案 </span>
+<span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Austin"</span><span class="token punctuation">,</span> Austin<span class="token punctuation">)</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Jaden"</span><span class="token punctuation">,</span> Jaden<span class="token punctuation">)</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template>
+</CodeTabs>
+<h3 id="例题-2-创建变量并输出" tabindex="-1"><a class="header-anchor" href="#例题-2-创建变量并输出" aria-hidden="true">#</a> 例题 2 创建变量并输出</h3>
+<ol>
+<li>输出效果：</li>
+</ol>
+<div class="language-python line-numbers-mode" data-ext="py"><pre v-pre class="language-python"><code>Austin Jaden Alex Cava
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><ol>
+<li>输出效果如下：</li>
+</ol>
+<div class="language-python line-numbers-mode" data-ext="py"><pre v-pre class="language-python"><code>Austin$Jaden$Alex$Cava<span class="token operator">%</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><div class="language-python line-numbers-mode" data-ext="py"><pre v-pre class="language-python"><code>a<span class="token operator">=</span><span class="token string">"Austin"</span>
+b<span class="token operator">=</span><span class="token string">"Jaden"</span>
+c<span class="token operator">=</span><span class="token string">"Alex"</span>
+d<span class="token operator">=</span><span class="token string">"Cava"</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span>a<span class="token punctuation">,</span>b<span class="token punctuation">,</span>c<span class="token punctuation">,</span>d<span class="token punctuation">)</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span>a<span class="token punctuation">,</span>b<span class="token punctuation">,</span>c<span class="token punctuation">,</span>d<span class="token punctuation">,</span>sep<span class="token operator">=</span><span class="token string">"$"</span><span class="token punctuation">,</span>end<span class="token operator">=</span><span class="token string">"%"</span><span class="token punctuation">)</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3 id="_3-5-变量命名规则" tabindex="-1"><a class="header-anchor" href="#_3-5-变量命名规则" aria-hidden="true">#</a> 3.5 变量命名规则</h3>
+<ul>
+<li>
+<p>大小写英文、数字和<code v-pre>_</code>的结合，且不能用数字开头；</p>
+</li>
+<li>
+<p>系统关键词不能做变量名使用； 获取关键字列表：help(‘keywords’)</p>
+</li>
+<li>
+<p>python中的变量名区分大小写；</p>
+</li>
+<li>
+<p>变量名不能包含空格，但可以使用下划线来分隔其中的单词；</p>
+</li>
+<li>
+<p>不要使用python的内置函数名称做变量名；</p>
+<figure><img src="@source/column/skill-sharing/programming/python/vairable.assets/image-20230913083608030.png" alt="image-20230913083608030" tabindex="0" loading="lazy"><figcaption>image-20230913083608030</figcaption></figure>
+</li>
+</ul>
+</div></template>
 
 

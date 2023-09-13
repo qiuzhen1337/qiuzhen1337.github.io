@@ -201,6 +201,86 @@ print(a, b, c, end="love qz") # end 只会针对此 print
 1 1 1love qz
 ```
 
+### 例题 1 交换果汁
+
+假如你有两个小孩，哥哥叫：Austin，弟弟叫：Jaden。
+
+Austin 想喝**果汁**，Jaden 想喝**可乐**。**哥哥和弟弟都有专属的杯子，不喜欢用对方的杯子。**
+
+家中仅剩一杯果汁、一杯可乐，你不小心把哥哥的杯子装了可乐，弟弟的杯子装了果汁。
+
+**问：如何交换哥哥与弟弟杯中的果汁？**
+
+:::code-tabs
+
+@tab 通用
+
+```python
+Austin = "Coke"  # 该赋值可以理解为倒果汁的过程
+Jaden = "juice"  # 该赋值可以理解为倒果汁的过程
+print("Austin", Austin)
+print("Jaden", Jaden)
+cup1 = Jaden     # 答案
+Jaden = Austin   # 答案
+Austin = cup1    # 答案
+print("Austin", Austin)
+print("Jaden", Jaden)
+
+# output
+
+```
+
+@tab python专属
+
+```python
+Austin = "Coke"  # 该赋值可以理解为倒果汁的过程
+Jaden = "juice"  # 该赋值可以理解为倒果汁的过程
+print("Austin", Austin)
+print("Jaden", Jaden)
+Austin,Jaden = Jaden,Austin  # 答案 
+print("Austin", Austin)
+print("Jaden", Jaden)
+```
+
+:::
+
+### 例题 2 创建变量并输出
+
+1. 输出效果：
+
+```python
+Austin Jaden Alex Cava
+```
+
+1. 输出效果如下：
+
+```python
+Austin$Jaden$Alex$Cava%
+```
+
+```python
+a="Austin"
+b="Jaden"
+c="Alex"
+d="Cava"
+print(a,b,c,d)
+print(a,b,c,d,sep="$",end="%")
+```
+
+### 3.5 变量命名规则
+
+- 大小写英文、数字和`_`的结合，且不能用数字开头；
+
+- 系统关键词不能做变量名使用； 获取关键字列表：help(‘keywords’)
+
+- python中的变量名区分大小写；
+
+- 变量名不能包含空格，但可以使用下划线来分隔其中的单词；
+
+- 不要使用python的内置函数名称做变量名；
+
+    ![image-20230913083608030](./vairable.assets/image-20230913083608030.png)
+
 
 
 
