@@ -201,7 +201,7 @@ print(a, b, c, end="love qz") # end 只会针对此 print
 1 1 1love qz
 ```
 
-### 例题 1 交换果汁
+### 变量专项练习 例题 1 交换果汁
 
 假如你有两个小孩，哥哥叫：Austin，弟弟叫：Jaden。
 
@@ -220,14 +220,17 @@ Austin = "Coke"  # 该赋值可以理解为倒果汁的过程
 Jaden = "juice"  # 该赋值可以理解为倒果汁的过程
 print("Austin", Austin)
 print("Jaden", Jaden)
-cup1 = Jaden     # 答案
-Jaden = Austin   # 答案
+cup1 = Jaden     # 答案 #注意：在没有新饮料的情况下，要交换饮料，而不是重新到两杯
+Jaden = Austin   # 答案 #思路：必须有一个新容器来存放其中一种饮料，一个杯子空了之后就可以换入对的饮料，再把空杯子内的饮料倒入另一个杯子
 Austin = cup1    # 答案
 print("Austin", Austin)
 print("Jaden", Jaden)
 
 # output
-
+Austin Coke
+Jaden juice
+Austin juice
+Jaden Coke
 ```
 
 @tab python专属
@@ -240,6 +243,12 @@ print("Jaden", Jaden)
 Austin,Jaden = Jaden,Austin  # 答案 
 print("Austin", Austin)
 print("Jaden", Jaden)
+
+# output
+Austin Coke
+Jaden juice
+Austin juice
+Jaden Coke
 ```
 
 :::
@@ -265,6 +274,10 @@ c="Alex"
 d="Cava"
 print(a,b,c,d)
 print(a,b,c,d,sep="$",end="%")
+
+# output
+Austin Jaden Alex Cava
+Austin$Jaden$Alex$Cava%
 ```
 
 ### 3.5 变量命名规则
@@ -284,6 +297,48 @@ print(a,b,c,d,sep="$",end="%")
 
 
 
+
+:::code-tabs
+
+@tab Code1
+
+```python
+n = "A"
+N = "a"
+print(n) # 如果不区分大小写的话，输出什么结果？---a
+# 但是，它区分大小写，所以输出 A
+
+# out
+A
+```
+
+@tab Code2
+
+```python
+# 数字不能开头
+a121iy212c21 = "a" # 数字不能开头，除了开头，其他都可以
+```
+
+@tab Code3
+
+```python
+user_name = "aiyc"
+```
+
+@tab Code4
+
+```python
+print = "aiyc"
+print(print) # 内置函数名不能当做变量名
+```
+
+@tab Code5
+
+```python
+# 关键词不能当做变量名
+await = "aiyc"
+print(while) # await 在 Python 当中有特殊功能，比如 while
+```
 
 
 
