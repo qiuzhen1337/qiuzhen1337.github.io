@@ -279,6 +279,8 @@ const a = 1;
 <details class="hint-container details"><summary>详细信息</summary>
 <p>xxxxxxx</p>
 </details>
+<h2 id="_19如何删除大量信息" tabindex="-1"><a class="header-anchor" href="#_19如何删除大量信息" aria-hidden="true">#</a> 19如何删除大量信息</h2>
+<p>点击最开始处，划到最后，长按shift键，点击最后（要在图片的下一行），按回车</p>
 </div></template>
 
 

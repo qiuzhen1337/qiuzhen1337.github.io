@@ -121,4 +121,6 @@ export const pagesComponents = {
   "v-5440dca6": defineAsyncComponent(() => import(/* webpackChunkName: "v-5440dca6" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/tag/日计划与复盘/index.html.vue")),
   // path: /category/%E6%97%A5%E8%AE%A1%E5%88%92%E4%B8%8E%E5%A4%8D%E7%9B%98/
   "v-66e920a3": defineAsyncComponent(() => import(/* webpackChunkName: "v-66e920a3" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/category/日计划与复盘/index.html.vue")),
+  // path: /column/skill-sharing/Z/chatgpt-register.html
+  "v-91fa7810": defineAsyncComponent(() => import(/* webpackChunkName: "v-91fa7810" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/skill-sharing/Z/chatgpt-register.html.vue")),
 }
