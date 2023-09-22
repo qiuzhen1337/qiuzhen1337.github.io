@@ -121,4 +121,10 @@ export const pagesData = {
   "v-66e920a3": () => import(/* webpackChunkName: "v-66e920a3" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/category/日计划与复盘/index.html.js").then(({ data }) => data),
   // path: /column/skill-sharing/Z/chatgpt-register.html
   "v-91fa7810": () => import(/* webpackChunkName: "v-91fa7810" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/skill-sharing/Z/chatgpt-register.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Day/2023.9/2023.9.18.html
+  "v-ed30c4e0": () => import(/* webpackChunkName: "v-ed30c4e0" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/2023.9/2023.9.18.html.js").then(({ data }) => data),
+  // path: /column/accumulating/Day/2023.9/2023.9.20.html
+  "v-9eb1d84e": () => import(/* webpackChunkName: "v-9eb1d84e" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/accumulating/Day/2023.9/2023.9.20.html.js").then(({ data }) => data),
+  // path: /column/skill-sharing/programming/python/data-type.html
+  "v-4b4580ea": () => import(/* webpackChunkName: "v-4b4580ea" */"/Users/qiuzhen/walkthetalk/src/.vuepress/.temp/pages/column/skill-sharing/programming/python/data-type.html.js").then(({ data }) => data),
 }

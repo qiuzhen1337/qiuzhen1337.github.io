@@ -308,7 +308,7 @@ N = "a"
 print(n) # 如果不区分大小写的话，输出什么结果？---a
 # 但是，它区分大小写，所以输出 A
 
-# out
+# output
 A
 ```
 
@@ -340,7 +340,7 @@ await = "aiyc"
 print(while) # await 在 Python 当中有特殊功能，比如 while
 ```
 
-
+:::
 
 
 

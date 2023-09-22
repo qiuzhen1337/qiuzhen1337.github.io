@@ -35,3 +35,15 @@ backToTop: true
 ## 注意：验证手机号需要买一个虚拟手机号，巴西就行
 
 https://sms-activate.org/cn/freePrice#activation 虚拟手机号购买网站
+
+## 关于升级
+
+需要用visa卡
+
+## 高质量文章网站
+
+https://medium.com/
+
+## 数学网站
+
+https://www.mathsisfun.com/

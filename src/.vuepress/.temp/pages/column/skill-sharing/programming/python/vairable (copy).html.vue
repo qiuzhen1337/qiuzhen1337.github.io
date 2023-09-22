@@ -215,7 +215,7 @@ N <span class="token operator">=</span> <span class="token string">"a"</span>
 <span class="token keyword">print</span><span class="token punctuation">(</span>n<span class="token punctuation">)</span> <span class="token comment"># 如果不区分大小写的话，输出什么结果？---a</span>
 <span class="token comment"># 但是，它区分大小写，所以输出 A</span>
 
-<span class="token comment"># output</span>
+<span class="token comment"># out</span>
 A
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template>
 <template #tab1="{ value, isActive }">
