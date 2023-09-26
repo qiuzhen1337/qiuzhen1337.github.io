@@ -59,7 +59,7 @@ c <span class="token operator">=</span> <span class="token number">1</span>
 <span class="token keyword">print</span><span class="token punctuation">(</span>a<span class="token punctuation">,</span> b<span class="token punctuation">,</span> c<span class="token punctuation">)</span> <span class="token comment"># print 同时输出多个变量，默认以空格间隔</span>
 
 <span class="token comment"># output</span>
-<span class="token number">1</span><span class="token punctuation">,</span><span class="token number">2</span><span class="token punctuation">,</span><span class="token number">3</span>
+<span class="token number">1</span> <span class="token number">2</span> <span class="token number">3</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>默认以空格间隔，可以使用sep修改。</p>
 <h3 id="_3-2-sep-修改多个变量同时输出的间隔" tabindex="-1"><a class="header-anchor" href="#_3-2-sep-修改多个变量同时输出的间隔" aria-hidden="true">#</a> 3.2 sep 修改多个变量同时输出的间隔</h3>
 <CodeTabs id="112" :data='[{"id":"demo1"},{"id":"demo2"}]'>

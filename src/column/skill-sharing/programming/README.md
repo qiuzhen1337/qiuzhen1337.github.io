@@ -40,3 +40,11 @@ link: /column/skill-sharing/programming/python/vairable.md
 color: rgba(230,230,250,1.000)
 ```
 
+```card
+title: 数据类型
+desc: python
+logo: /logo.png
+link: /column/skill-sharing/programming/python/data-type.md
+color: rgba(255,222,173,1.000)
+```
+

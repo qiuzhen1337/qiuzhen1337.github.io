@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-4e20d545\",\"path\":\"/column/skill-sharing/programming/\",\"title\":\"Column-progamming\",\"lang\":\"zh-CN\",\"frontmatter\":{\"home\":true,\"icon\":\"zhongduan\",\"title\":\"Column-progamming\",\"heroImage\":\"/logo.png\",\"heroText\":\"Column-progamming\",\"heroFullScreen\":false,\"tagline\":\"从0到∞\",\"description\":\"\"},\"headers\":[],\"readingTime\":{\"minutes\":0.36,\"words\":108},\"filePathRelative\":\"column/skill-sharing/programming/README.md\",\"excerpt\":\"\",\"autoDesc\":true}")
+export const data = JSON.parse("{\"key\":\"v-4e20d545\",\"path\":\"/column/skill-sharing/programming/\",\"title\":\"Column-progamming\",\"lang\":\"zh-CN\",\"frontmatter\":{\"home\":true,\"icon\":\"zhongduan\",\"title\":\"Column-progamming\",\"heroImage\":\"/logo.png\",\"heroText\":\"Column-progamming\",\"heroFullScreen\":false,\"tagline\":\"从0到∞\",\"description\":\"\"},\"headers\":[],\"readingTime\":{\"minutes\":0.43,\"words\":128},\"filePathRelative\":\"column/skill-sharing/programming/README.md\",\"excerpt\":\"\",\"autoDesc\":true}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
